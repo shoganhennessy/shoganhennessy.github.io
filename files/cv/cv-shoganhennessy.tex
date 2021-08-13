@@ -2,8 +2,9 @@
 \documentclass[letterpaper,11pt,oneside]{article}
 \usepackage[utf8]{inputenc}
 \usepackage{setspace}
-\usepackage{natbib}
+\usepackage{natbib}                                        % Citation package, see https://en.wikibooks.org/wiki/LaTeX/Bibliography_Management#Natbib
 \usepackage{bibentry}
+\nobibliography*
 \usepackage{hyperref}
 \hypersetup{colorlinks=true, linkcolor=blue, citecolor=blue, filecolor=magenta, urlcolor=blue}
 \usepackage{color}
@@ -31,11 +32,11 @@
     \begin{tabular*}{\textwidth}{l @{\extracolsep{\fill}} r}
         \toprule
         PhD Student, Economics &
-            \href{https://economics.cornell.edu/senan-hogan-hennessy}{
-                \nolinkurl{economics.cornell.edu/senan-hogan-hennessy}} \\
-        Cornell University &
             \href{https://shoganhennessy.github.io}{
                 \nolinkurl{shoganhennessy.github.io}} \\
+        Cornell University &
+            \href{https://economics.cornell.edu/senan-hogan-hennessy}{
+                \nolinkurl{economics.cornell.edu/senan-hogan-hennessy}} \\
         Ithaca, NY 14850 USA &
             \href{mailto:seh325@cornell.edu}{\nolinkurl{seh325@cornell.edu}} \\
         \bottomrule
@@ -111,16 +112,14 @@
 \onehalfspacing
 \restoregeometry
 \newgeometry{left=0.75in, right=0.75in, top=1in}
-\nobibliography{bibliography}
-\bibliographystyle{plain}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Current Projects
 \section*{Work in Progress}
 \begin{enumerate}[itemsep=2.5pt, label={}]
     \item \bibentry{uni-funding-incidence}
+    \item \bibentry{mmorpg-prices}
     \item \bibentry{Econ_text_data}
-    \item Prices, inflation, and a floating currency in a virtual game economy, with Peter Xenopoulous NYU (big data/computer science focused project)
 \end{enumerate}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -137,6 +136,9 @@
     \item \bibentry{senan_hogan_hennessy_2021_4453438}
     %\item Add ``Text Analysis of Political Subreddits: The Trump/Clinton Dichotomy, with Shirley Jiang (2018)'' archived by Zenodo.
 \end{enumerate}
+
+\bibliographystyle{apalike}
+\nobibliography{bibliography.bib}
  
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Presentation locations
