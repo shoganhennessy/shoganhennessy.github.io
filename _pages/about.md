@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-ok
 I am a PhD student in the Department of Economics at Cornell University, and I study labour economics with a focus on causal inference and using tools from data science.
 
 This is my personal website, powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub pages](https://pages.github.com).
