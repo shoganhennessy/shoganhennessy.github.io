@@ -12,7 +12,7 @@ I am a PhD student in the Department of Economics at Cornell University, and I s
 I'm passionate about data-centric research, the study of inequality, and open-sources software.
 When not contributing to my research, I am usually [riding my bike](https://shoganhennessy.github.io/cycling/).
 
-Take a look at my [CV here](https://shoganhennessy.github.io/cv/cv-shoganhennessy.pdf), and my [Cornell profile here](https://economics.cornell.edu/senan-hogan-hennessy).
+Take a look at my [CV here](https://shoganhennessy.github.io/files/cv/cv-shoganhennessy.pdf), and my [Cornell profile here](https://economics.cornell.edu/senan-hogan-hennessy).
 
 My personal website is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub pages](https://pages.github.com).
 
