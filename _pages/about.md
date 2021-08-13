@@ -14,4 +14,3 @@ This is my personal website, powered by the [academicpages template](https://git
 Here I host my work in progress and some general research thoughts.
 
 Take a look at my [CV here](https://shoganhennessy.github.io/cv/), and my [Cornell profile here](https://economics.cornell.edu/senan-hogan-hennessy).
-
