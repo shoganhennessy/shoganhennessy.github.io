@@ -153,9 +153,6 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  cycling:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -185,15 +182,6 @@ defaults:
       layout: single
       share: true
       comments: true
-  # _cycling
-  - scope:
-      path: ""
-      type: cycling
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
 
 # Sass/SCSS
 sass:
