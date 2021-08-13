@@ -3,12 +3,12 @@ main:
   - title: "Research"
     url: /research/
       
-  - title: "Blog Posts"
+  - title: "Posts"
     url: /year-archive/
       
   - title: "Cycling"
     url: /cycling/
     
   - title: "CV"
-    url: /cv/
+    url: /files/papers.pdf
 
