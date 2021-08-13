@@ -1,0 +1,155 @@
+% PREAMBLE
+\documentclass[letterpaper,11pt,oneside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{setspace}
+\usepackage{natbib}
+\usepackage{bibentry}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=blue, citecolor=blue, filecolor=magenta, urlcolor=blue}
+\usepackage{color}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage[UKenglish]{babel}
+\usepackage[UKenglish,cleanlook]{isodate}
+\usepackage{geometry}
+\usepackage[shortlabels]{enumitem} \setlist[enumerate]{leftmargin=0pt}
+\pagenumbering{gobble}
+\setlength{\parindent}{0pt}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Start CV document
+\begin{document}
+\newgeometry{left=0.5in, right=0.5in, top=0.75in}
+% NAME
+\centerline{\LARGE{\textbf{Senan Hogan-Hennessy}}}
+\vspace{0.1cm}
+% CONTACT INFO
+\begin{table}[H]
+    \centering
+    \begin{tabular*}{\textwidth}{l @{\extracolsep{\fill}} r}
+        \toprule
+        PhD Student, Economics &
+            \href{https://economics.cornell.edu/senan-hogan-hennessy}{
+                \nolinkurl{economics.cornell.edu/senan-hogan-hennessy}} \\
+        Cornell University &
+            \href{https://github.com/shoganhennessy}{
+                \nolinkurl{github.com/shoganhennessy}} \\
+        Ithaca, NY 14850 USA &
+            \href{mailto:seh325@cornell.edu}{\nolinkurl{seh325@cornell.edu}} \\
+        \bottomrule
+    \end{tabular*}
+\end{table}
+
+%% MAIN
+% The main body is contained in a tabular environment. To move sections onto the next page, simply end the tabular environment and begin a new tabular environment.
+\noindent \begin{longtable}{@{} l l}
+\Large{Education}
+    & \textbf{Cornell University} (in progress)  \hfill Last updated: \today\\
+    &  Ph.D. Economics, expected 2025. \vspace{0.1cm} \\
+    & \textbf{Pomona College} \\
+    &  B.A. Economics, minor Mathematics, 2018.  GPA: 3.70/4.00, major GPA 3.82/4.00 \vspace{0.1cm}  \\
+    &  \textbf{London Oratory School}\\
+    &  A-Levels. Economics, Mathematics, Chemistry, Biology, 2014.  GPA: 4.00/4.00 \vspace{0.2cm} \\
+
+\Large{Research}
+    & \textbf{Cornell University}, Ithaca NY \\
+\Large{Experience}
+    & \textbf{Research Assistant, Institute for Labour Relations -- 2021} \\
+    & Project: Wages among ride-share drivers \vspace{0.2cm} \\
+    
+    & \textbf{The Behaviouralist}, London UK \\
+    & \textbf{Visiting Data Science Research -- 2020} \\
+    & Project: Empirical and theoretical research assistance for Hahn, Metcalfe (AER 2021). \vspace{0.2cm} \\
+
+    & \textbf{Harvard Business School}, Massachusetts USA \\
+    & \textbf{Research Associate, Economics -- 2018-2020} \\
+    & Empirical projects on technological change, labor markets, and innovation using historical data.\\
+    & Assistant to Professor Daniel Gross on various economics papers and projects. \vspace{0.2cm} \\
+    
+    & \textbf{Pomona College}, California USA \\
+    & \textbf{Undergraduate Research Programme, Independent Research -- 2017} \\
+    & Project: Which trend in intergenerational inequality?  Measures of mobility in the PSID \vspace{0.2cm} \\
+    %
+    %& \textbf{Bipartisan Policy Centre, Economic Policy Project}, Washington DC USA \\
+    %& \textbf{Economics Internship -- 2017} \\
+    %& Project: The federal debt limit empirical projection and evidence-based policy implementation \vspace{0.2cm} \\
+
+\Large{Teaching}  
+    &\textbf{Teaching Assistant, Department of Economics, Pomona College}\\  
+\Large{Experience}  
+    & ECON167 Econometrics, Professor Pierangelo De Pace, 2016-2018 \\
+    & ECON101 Microeconomic Theory, Professor John Clithero, 2016 \\
+    & ECON52 Microeconomics, Professor James Lehman, 2015-2016 \\
+
+%% Extra info
+\\[17ex]
+\Large{Other}       & \textbf{Citizenship}: United Kingdom, Ireland \\
+\Large{Information} & \textbf{Personal Interests}: Amateur bike racing, sports statistics \\
+                    & \textbf{Programming}: R, Python, Julia, Linux bash, \LaTeX \vspace{0.2cm} \\
+%% REFERENCES
+\Large{References} &
+\begin{tabular}{@{} l l}
+    Michael Lovenheim                      
+    & Daniel P. Gross                           \\
+    
+    Professor, Donald C. Opatrny ’74 Chair
+    & Assistant Professor                       \\
+    
+    Cornell University, Economics
+    & Duke University, Fuqua School of Business \\
+    
+    \href{mfl55@cornell.edu}{\nolinkurl{mfl55@cornell.edu}}
+    & \href{mailto:daniel.gross@duke.edu}{\nolinkurl{daniel.gross@duke.edu}} 
+\end{tabular}
+\end{longtable}
+
+
+%% Next page: superfluous list of things, including papers
+\newpage
+\onehalfspacing
+\restoregeometry
+\newgeometry{left=0.75in, right=0.75in, top=1in}
+\nobibliography{bibliography}
+\bibliographystyle{plain}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Current Projects
+\section*{Work in Progress}
+\begin{enumerate}[itemsep=2.5pt, label={}]
+    \item \bibentry{Econ_text_data}
+    \item Prices, inflation, and a floating currency in a virtual game economy, with Peter Xenopoulous NYU (big data/computer science focused project)
+\end{enumerate}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Publications
+%\section*{Publications}
+%\begin{enumerate}[itemsep=2.5pt, label={}]
+%    \item NONE YET.
+%\end{enumerate}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Working papers.
+\section*{Working Papers}
+\begin{enumerate}[itemsep=2.5pt, label={}]
+    \item \bibentry{senan_hogan_hennessy_2021_4453438}
+    %\item Add ``Text Analysis of Political Subreddits: The Trump/Clinton Dichotomy, with Shirley Jiang (2018)'' archived by Zenodo.
+\end{enumerate}
+ 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Presentation locations
+\section*{Presentations}
+\begin{enumerate}[noitemsep, label={}]
+    \item Cornell Economics, Work in Progress Seminar 2021--
+\end{enumerate}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Awards
+\section*{Grants and Awards}
+\begin{enumerate}[itemsep=2pt, label={}]
+    \item \textbf{Sage Fellowship, Economics}, Cornell University 2020--
+    \item \textbf{Lorne D. Cook Memorial Award}, Department of Economics, Pomona College 2018
+    \item \textbf{Sutton Trust -- Fulbright Programme}, London UK 2013-2014  
+\end{enumerate}
+\end{document}
