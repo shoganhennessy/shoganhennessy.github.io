@@ -1,15 +1,10 @@
-Senan Hogan-Hennessy,
-27 Jul 2020
-
-This is the second of a series of blog posts motivating my analysis and
-exploration of a huge set of data on economics publications, sho I hope
-you enjoy the posts. The source code is available in [this
+In the summer before starting my PhD, I collected multiple data sources
+about economists.
+This is my first post, a first pass at playing with those data.
+The source code is available in [this
 repo](https://github.com/shoganhennessy/Econ_text_data/), so feel free
 to look over and reproduce from there (which is filled mostly with code
-in *R* and *Python*). Please contact me if you would like to use my
-underlying data for another project – all of the used data are publicly
-accessible across the internet yet my collection of them all may
-constitute sensitive data.
+in *R* and *Python*).
 
 -----
 
@@ -89,7 +84,7 @@ does the wider distribution look like?
 
 <p align="center">
 
-<img src="../files/posts/2020-07-27-blog-post-1-files/figure-gfm/unnamed-chunk-2-1.png" style="display: block; margin: auto;" />
+<img src="../files/posts/2021-08-01-data-on-economists-files/figure-gfm/unnamed-chunk-2-1.png" style="display: block; margin: auto;" />
 
 </p>
 
@@ -101,7 +96,7 @@ is the distribution *unequal* for all the years of these data?
 
 <p align="center">
 
-<img src="../files/posts/2020-07-27-blog-post-1-files/figure-gfm/unnamed-chunk-3-1.png" style="display: block; margin: auto;" />
+<img src="../files/posts/2021-08-01-data-on-economists-files/figure-gfm/unnamed-chunk-3-1.png" style="display: block; margin: auto;" />
 
 </p>
 
@@ -116,7 +111,7 @@ while interesting, is a crude measure of inequality among publications.
 
 <p align="center">
 
-<img src="../files/posts/2020-07-27-blog-post-1-files/figure-gfm/unnamed-chunk-4-1.png" style="display: block; margin: auto;" />
+<img src="../files/posts/2021-08-01-data-on-economists-files/figure-gfm/unnamed-chunk-4-1.png" style="display: block; margin: auto;" />
 
 </p>
 
@@ -148,7 +143,7 @@ decision and thus makes (or breaks) an academic economics career.
 
 <p align="center">
 
-<img src="../files/posts/2020-07-27-blog-post-1-files/figure-gfm/unnamed-chunk-5-1.png" style="display: block; margin: auto;" />
+<img src="../files/posts/2021-08-01-data-on-economists-files/figure-gfm/unnamed-chunk-5-1.png" style="display: block; margin: auto;" />
 
 </p>
 
@@ -209,7 +204,7 @@ here will be log citations for author *i* in year *t*.
 
 <p align="center">
 
-<img src="../files/posts/2020-07-27-blog-post-1-files/CodeCogsEqn.svg" />
+<img src="../files/posts/2021-08-01-data-on-economists-files/CodeCogsEqn.svg" />
 
 </p>
 
@@ -218,7 +213,7 @@ The design can similarly be applied to the next 5 prestigious journals
 
 <p align="center">
 
-<img src="../files/posts/2020-07-27-blog-post-1-files/figure-gfm/unnamed-chunk-7-1.png" style="display: block; margin: auto;" />
+<img src="../files/posts/2021-08-01-data-on-economists-files/figure-gfm/unnamed-chunk-7-1.png" style="display: block; margin: auto;" />
 
 </p>
 
@@ -250,7 +245,7 @@ Packalen 2020](https://www.nber.org/papers/w26752)). So it pays to take
 analyses of citations, such as the ones in this post, with a grain of
 salt.
 
-### Conclusion:
+### Conclusion
 
 This post described the IDEAS.RePEc data, and the opportunity it
 represents to to measure economics publication and their outcomes.
