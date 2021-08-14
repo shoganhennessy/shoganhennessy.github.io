@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 I am a PhD student in the Department of Economics at Cornell University, and I study labour economics using tools from data science.
-I'm passionate about the study of inequality, data-centric research, and open-sourced software.
+I'm passionate about the study of inequality, data-centric research, and open-source software.
+Take a look at my early stage thoughts in my [posts tab](https://shoganhennessy.github.io/year-archive/).
 
 When not contributing to my research, I am usually [riding my bike](https://shoganhennessy.github.io/cycling/).
 
