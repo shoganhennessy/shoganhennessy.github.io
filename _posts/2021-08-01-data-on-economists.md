@@ -222,18 +222,79 @@ al. (2018)](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecin.12867).
 
 <p align="center">
 
-| Journal name                           | Mean citations per article | Total citations | Count articles |
-| :------------------------------------- | -------------------------: | --------------: | -------------: |
-| American Economic Review               |                        102 |          301142 |           2954 |
-| Journal of Political Economy           |                        112 |          142477 |           1271 |
-| The Quarterly Journal of Economics     |                        137 |          129378 |            945 |
-| Econometrica                           |                        103 |          129028 |           1247 |
-| The Review of Economics and Statistics |                         84 |           97737 |           1169 |
-| Journal of Finance                     |                        112 |           97687 |            870 |
-| Economic Journal                       |                         83 |           93447 |           1132 |
-| Journal of Financial Economics         |                        107 |           92602 |            866 |
-| Journal of Econometrics                |                         84 |           89413 |           1068 |
-| Journal of Public Economics            |                         73 |           88089 |           1207 |
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Journal name</th>
+<th style="text-align:right">Mean citations per article</th>
+<th style="text-align:right">Total citations</th>
+<th style="text-align:right">Count articles</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">American Economic Review</td>
+<td style="text-align:right">102</td>
+<td style="text-align:right">301142</td>
+<td style="text-align:right">2954</td>
+</tr>
+<tr>
+<td style="text-align:left">Journal of Political Economy</td>
+<td style="text-align:right">112</td>
+<td style="text-align:right">142477</td>
+<td style="text-align:right">1271</td>
+</tr>
+<tr>
+<td style="text-align:left">The Quarterly Journal of Economics</td>
+<td style="text-align:right">137</td>
+<td style="text-align:right">129378</td>
+<td style="text-align:right">945</td>
+</tr>
+<tr>
+<td style="text-align:left">Econometrica</td>
+<td style="text-align:right">103</td>
+<td style="text-align:right">129028</td>
+<td style="text-align:right">1247</td>
+</tr>
+<tr>
+<td style="text-align:left">The Review of Economics and Statistics</td>
+<td style="text-align:right">84</td>
+<td style="text-align:right">97737</td>
+<td style="text-align:right">1169</td>
+</tr>
+<tr>
+<td style="text-align:left">Journal of Finance</td>
+<td style="text-align:right">112</td>
+<td style="text-align:right">97687</td>
+<td style="text-align:right">870</td>
+</tr>
+<tr>
+<td style="text-align:left">Economic Journal</td>
+<td style="text-align:right">83</td>
+<td style="text-align:right">93447</td>
+<td style="text-align:right">1132</td>
+</tr>
+<tr>
+<td style="text-align:left">Journal of Financial Economics</td>
+<td style="text-align:right">107</td>
+<td style="text-align:right">92602</td>
+<td style="text-align:right">866</td>
+</tr>
+<tr>
+<td style="text-align:left">Journal of Econometrics</td>
+<td style="text-align:right">84</td>
+<td style="text-align:right">89413</td>
+<td style="text-align:right">1068</td>
+</tr>
+<tr>
+<td style="text-align:left">Journal of Public Economics</td>
+<td style="text-align:right">73</td>
+<td style="text-align:right">88089</td>
+<td style="text-align:right">1207</td>
+</tr>
+</tbody>
+</table>
+
 
 </p>
 
