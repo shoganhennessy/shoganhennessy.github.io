@@ -1,5 +1,5 @@
 ---
-title: "Wages "
+title: "The Wages of Rideshare Drivers"
 collection: research
 permalink: /research/2021-08-13-rideshare-research
 excerpt: 'These last few months I have been working for Professor Hyman (Cornell ILR) on data-driven research about wages among rideshare drivers.
