@@ -52,19 +52,78 @@ field by citation count.<sup id="a2">[2](#f2)</sup>
 
 <p align="center">
 
-| author\_name                   | total\_citations | mean\_citations | total\_articles |
-| :----------------------------- | ---------------: | --------------: | --------------: |
-| Andrei Shleifer                |            13816 |             150 |              92 |
-| James J. Heckman               |            12845 |             130 |              99 |
-| Daron Acemoglu                 |            12007 |             111 |             108 |
-| Jean Tirole                    |            11602 |             130 |              89 |
-| Joseph E. Stiglitz             |            11070 |             101 |             110 |
-| RenÃ© M. Stulz (Rene M. Stulz) |             9884 |             145 |              68 |
-| John List                      |             8559 |              93 |              92 |
-| John Y. Campbell               |             8423 |             153 |              55 |
-| David E. Card                  |             8159 |             138 |              59 |
-| Asli Demirguc-Kunt             |             8150 |             143 |              57 |
-
+<table>
+<thead>
+<tr>
+<th style="text-align:left">author_name</th>
+<th style="text-align:right">total_citations</th>
+<th style="text-align:right">mean_citations</th>
+<th style="text-align:right">total_articles</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Andrei Shleifer</td>
+<td style="text-align:right">13816</td>
+<td style="text-align:right">150</td>
+<td style="text-align:right">92</td>
+</tr>
+<tr>
+<td style="text-align:left">James J. Heckman</td>
+<td style="text-align:right">12845</td>
+<td style="text-align:right">130</td>
+<td style="text-align:right">99</td>
+</tr>
+<tr>
+<td style="text-align:left">Daron Acemoglu</td>
+<td style="text-align:right">12007</td>
+<td style="text-align:right">111</td>
+<td style="text-align:right">108</td>
+</tr>
+<tr>
+<td style="text-align:left">Jean Tirole</td>
+<td style="text-align:right">11602</td>
+<td style="text-align:right">130</td>
+<td style="text-align:right">89</td>
+</tr>
+<tr>
+<td style="text-align:left">Joseph E. Stiglitz</td>
+<td style="text-align:right">11070</td>
+<td style="text-align:right">101</td>
+<td style="text-align:right">110</td>
+</tr>
+<tr>
+<td style="text-align:left">RenÃ© M. Stulz (Rene M. Stulz)</td>
+<td style="text-align:right">9884</td>
+<td style="text-align:right">145</td>
+<td style="text-align:right">68</td>
+</tr>
+<tr>
+<td style="text-align:left">John List</td>
+<td style="text-align:right">8559</td>
+<td style="text-align:right">93</td>
+<td style="text-align:right">92</td>
+</tr>
+<tr>
+<td style="text-align:left">John Y. Campbell</td>
+<td style="text-align:right">8423</td>
+<td style="text-align:right">153</td>
+<td style="text-align:right">55</td>
+</tr>
+<tr>
+<td style="text-align:left">David E. Card</td>
+<td style="text-align:right">8159</td>
+<td style="text-align:right">138</td>
+<td style="text-align:right">59</td>
+</tr>
+<tr>
+<td style="text-align:left">Asli Demirguc-Kunt</td>
+<td style="text-align:right">8150</td>
+<td style="text-align:right">143</td>
+<td style="text-align:right">57</td>
+</tr>
+</tbody>
+</table>
 </p>
 
 There are some familiar faces among the names, which is to be expected\!
