@@ -20,5 +20,5 @@ My personal website is powered by the [academicpages template](https://github.co
 ### To-Do
 
 - Works in progress in research page
-- Blog post about econ professors' professional networks
 - Blog post about Scotland overdoses
+- Blog post about experience as an RA, Dan's research and the HBS.
