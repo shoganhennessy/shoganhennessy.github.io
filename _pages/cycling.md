@@ -16,20 +16,13 @@ I started cycling at Pomona College, where I became the president of the college
 
 Strava is the only social media platform I use; you can follow my cycling over here.
 
-<div style="width:100%;"> 
+<div style="width:110%;"> 
     <div style="float:left;">
-		<iframe style="position:absolute" height='160' width='49%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/7741397/activity-summary/b07ae5dcfcb65768a929e80a30b9b7c3844bf916'>
+		<iframe style="position:absolute" height='160' width='50%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/7741397/activity-summary/b07ae5dcfcb65768a929e80a30b9b7c3844bf916'>
 		</iframe>
-	</div> 
+	</div>
     <div style="float:right;">
-		<iframe height='454' width='49%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/7741397/latest-rides/b07ae5dcfcb65768a929e80a30b9b7c3844bf916'>
+		<iframe height='454' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/7741397/latest-rides/b07ae5dcfcb65768a929e80a30b9b7c3844bf916'>
 		</iframe>
-	</div> 
-</div> 
-
-
-<iframe style="position:absolute" height='160' width='49%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/7741397/activity-summary/b07ae5dcfcb65768a929e80a30b9b7c3844bf916'>
-</iframe>
-
-<iframe height='454' width='49%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/7741397/latest-rides/b07ae5dcfcb65768a929e80a30b9b7c3844bf916'>
-</iframe>
+	</div>
+</div>
