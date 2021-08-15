@@ -61,12 +61,7 @@ author_profile: false
 
 Road cycling is my main hobby, outside of academic pursuits.
 
-When I lived Boston I joined my current amateur racing team, 
-
-<a href="http://b2c2cycling.com/">B2C2 Cycling</a>
-
-[B2C2 Cycling](http://b2c2cycling.com/).
-
+When I lived Boston I joined my current amateur racing team, <a href="http://b2c2cycling.com/">B2C2 Cycling</a>.
 We're committed to equality in the sport, and generally having a good time on two wheels.
 
 I started cycling at Pomona College, where I became the president of the college cycling club, and made some great friends in the local race scene from Cal State Fullerton and Team Go-Fast.
@@ -104,10 +99,10 @@ Strava is the only social media platform I use, so you can follow my cycling ove
 
 <p align="center">
 
-<iframe  src='https://www.strava.com/athletes/7741397/latest-rides/b07ae5dcfcb65768a929e80a30b9b7c3844bf916' frameborder="0" scrolling="no" style="height: 200%; width: 49%; float: left; " height="200%" width="49%" align="left">
+<iframe  src='https://www.strava.com/athletes/7741397/latest-rides/b07ae5dcfcb65768a929e80a30b9b7c3844bf916' frameborder="0" scrolling="no" style="height: 200%; width: 49%; float: left; " height="240" width="49%" align="left">
 </iframe>
 
-<iframe  src='https://www.strava.com/athletes/7741397/activity-summary/b07ae5dcfcb65768a929e80a30b9b7c3844bf916' frameborder="0" scrolling="no" style="height: 200%; width: 49%; float: left; " height="200%" width="49%" align="left">
+<iframe  src='https://www.strava.com/athletes/7741397/activity-summary/b07ae5dcfcb65768a929e80a30b9b7c3844bf916' frameborder="0" scrolling="no" style="height: 200%; width: 49%; float: left; " height="240" width="49%" align="left">
 
 </p>
 
