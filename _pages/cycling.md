@@ -104,9 +104,9 @@ Strava is the only social media platform I use, so you can follow my cycling ove
 
 <p align="center" style="line-height:3.5em;">
 
-<iframe  src='https://www.strava.com/athletes/7741397/latest-rides/b07ae5dcfcb65768a929e80a30b9b7c3844bf916' frameborder="0" scrolling="no" style="height: 100%; width: 49%; float: left; " height="100%" width="49%" align="left">
+<iframe  src='https://www.strava.com/athletes/7741397/latest-rides/b07ae5dcfcb65768a929e80a30b9b7c3844bf916' frameborder="0" scrolling="no" style="height: 100%; width: 49%; float: left; " height="200%" width="49%" align="left">
 </iframe>
 
-<iframe  src='https://www.strava.com/athletes/7741397/activity-summary/b07ae5dcfcb65768a929e80a30b9b7c3844bf916' frameborder="0" scrolling="no" style="height: 100%; width: 49%; float: left; " height="100%" width="49%" align="left">
+<iframe  src='https://www.strava.com/athletes/7741397/activity-summary/b07ae5dcfcb65768a929e80a30b9b7c3844bf916' frameborder="0" scrolling="no" style="height: 100%; width: 49%; float: left; " height="200%" width="49%" align="left">
 
 </p>
