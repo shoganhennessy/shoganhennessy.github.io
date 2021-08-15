@@ -154,9 +154,7 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-    - values:
-      layout: single
-      author_profile: true
+    author_profile: true
 
 
 # Defaults
