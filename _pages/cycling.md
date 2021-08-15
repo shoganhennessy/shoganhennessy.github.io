@@ -73,7 +73,6 @@ I started cycling at Pomona College, where I became the president of the college
   <div class="column">
     <img src="../files/cycling/2019-07-15 08.40.50.png" onclick="myFunction(this);">
   </div>
-  </div>
   <div class="column">
     <img src="../files/cycling/2018-02-26 16.40.54.jpg" onclick="myFunction(this);">
   </div>
