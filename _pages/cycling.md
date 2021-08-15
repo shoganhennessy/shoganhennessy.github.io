@@ -94,8 +94,6 @@ I started in my time at Pomona College, where I became the president of the coll
 
 <p align="center">
 
-
-
 <!-- The grid: four columns -->
 <div class="row">
   <div class="column">
