@@ -1,7 +1,7 @@
 ---
 title: "Cycling"
 permalink: /cycling/
-author_profile: false
+author_profile: true
 ---
 
 Road cycling is my main hobby, outside of academic pursuits.
