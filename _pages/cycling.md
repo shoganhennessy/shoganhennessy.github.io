@@ -10,7 +10,7 @@ I ride my bike up to a dozen hours a week, and participate primarily in road cri
 When I lived in Boston I joined my current amateur racing team, [B2C2 Cycling](https://b2c2cycling.com/).
 We're committed to equality in the sport, and generally having a good time on two wheels.
 
-![title](../files/cycling/combined-two.jpg)
+![cycling](../files/cycling/combined-two.jpg)
 
 I started cycling at Pomona College, where I became the president of the college cycling club, and made some great friends in the local race scene from Cal State Fullerton and Team Go-Fast.
 
