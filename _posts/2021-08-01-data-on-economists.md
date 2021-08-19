@@ -1,10 +1,6 @@
-In the summer before starting my PhD, I collected multiple data sources
-about economists.
+
+In the summer before starting my PhD, I collected multiple data sources on economics publications.
 This is my first post, a first pass at playing with those data.
-The source code is available in [this
-repo](https://github.com/shoganhennessy/Econ_text_data/), so feel free
-to look over and reproduce from there (which is filled mostly with code
-in *R* and *Python*).
 
 -----
 
@@ -14,7 +10,7 @@ The NBER series is a great source of research in our profession, but it
 isn’t the full picture of research in the field. It is, after all, a
 listing of working papers which are not yet publications – though most
 do go on to be published, as I noted in the [last
-post.](https://github.com/shoganhennessy/Econ_text_data/blob/master/Blog_post_exploration/1_NBER_working_papers.md)
+post.](https://github.com/shoganhennessy/economist-networks/blob/master/posts/1_NBER_working_papers.md)
 
 Fortunately, [Research Papers in Economics (RePEc)’s
 Ideas](https://ideas.repec.org/) provides a large listing of economics
