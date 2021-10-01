@@ -12,7 +12,12 @@ I am a PhD student in the Department of Economics at Cornell University, and I s
 I'm passionate about the study of inequality, data-centric research, and open-source software.
 Take a look at my early stage thoughts in my [posts tab](https://shoganhennessy.github.io/year-archive/).
 
-<img src="../images/profile.jpg" alt="Headshot October 2021, Senan Hogan-Hennessy ">
+
+<p class="aligncenter">
+    <img src="../images/profile-large.jpg"
+  alt="Headshot October 2021, Senan Hogan-Hennessy">
+</p>
+
 
 Take a look at my [CV here](https://shoganhennessy.github.io/files/cv/cv-shoganhennessy.pdf), and my [Cornell profile here](https://economics.cornell.edu/senan-hogan-hennessy).
 
