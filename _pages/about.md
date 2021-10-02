@@ -12,7 +12,9 @@ I am a PhD student in the Department of Economics at Cornell University, and I s
 
 <p class="aligncenter">
     <img src="../images/profile-large.jpg"
-  alt="Headshot October 2021, Senan Hogan-Hennessy">
+  alt="Headshot October 2021, Senan Hogan-Hennessy"
+  width="300"
+  height="333">
 </p>
 
 I am passionate about the study of inequality, data-centric research, and open-source software.
