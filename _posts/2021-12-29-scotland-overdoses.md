@@ -1,5 +1,3 @@
-# Overdoses in Scotland and the United States
-
 Back in the summer of 2019 I picked up a print edition of the New York Times (NYT) in a coffee shop in Portland Maine, then became entranced by an [article about rates of opioid overdoses in Scotland.](https://www.nytimes.com/2019/08/07/world/europe/scotland-heroin-deaths.html)[^1]
 The article discusses rates of opioid and heroine use in Scotland, and makes a brief comparison to rates in the United States (US).
 
