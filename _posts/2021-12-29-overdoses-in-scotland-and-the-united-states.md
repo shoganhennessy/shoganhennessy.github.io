@@ -187,7 +187,7 @@ It seems to me that the issue is not uniquely American.
 This post has looked at aggregate statistics on the rates of overdose in Scotland.
 Considering that the relatively prosperous South England has not seen a similar rise in overdoses, while areas of similar to Scotland have seen the rise, I think that this could prvide evidence for the Deaths of Despair Hypothesis for deindustrialised areas of the UK.
 
-The topic of rising overdoses in Scotland has not been focused on in research; I could only find a literature view on the topic from a public health view (https://doi.org/10.1159/000516165).
+The topic of rising overdoses in Scotland has not been focused on in research; I could only find a literature view on the topic from a public health view ([https://doi.org/10.1159/000516165](https://doi.org/10.1159/000516165)).
 The issue could do with quality empirical work on the topic:
 I think a health economics project could explain this by using UK and Ireland's Northern counties as comparisons, or constructed controls, for where overdoses have and have not risen over the last 20 years.
 Finding an explanation for why the South of England saw little rise on overdoses, while Scotland did, would be a huge development in understanding the Western World's problems with drug overdoses.
@@ -204,7 +204,6 @@ I would love if you send me an email with your thoughts, or if you need any furt
 [^1]: The article is a fantastic piece of journalism, well written with beautiful graphs and photography.
 I would recommend it to all.
 The graphs presented are from the article.
-
 Allison McCann, Mary Turner, NYT
 "As Scotland’s ‘Trainspotting’ Generation Ages, the Dead Pile Up"
 7 August 2019;
@@ -212,15 +211,9 @@ Allison McCann, Mary Turner, NYT
 
 [^2]: The ONS hosts their data reports, and graphs, online in the following report.
 It is a worth read for unbiased views and data on the topic.
-
 [https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsrelatedtodrugpoisoninginenglandandwales/2020](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsrelatedtodrugpoisoninginenglandandwales/2020)
-
 Equivalent organisations for the semi-autonomous regions of Scotland and the Northern Counties of Ireland have similar reports on the issue:
-
-[https://www.nisra.gov.uk/publications/drug-related-and-drug-misuse-deaths-2009-2019](https://www.nisra.gov.uk/publications/drug-related-and-drug-misuse-deaths-2009-2019)
-
-[https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/vital-events/deaths/drug-related-deaths-in-scotland/2020](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/vital-events/deaths/drug-related-deaths-in-scotland/2020)
-
+[https://www.nisra.gov.uk/publications/drug-related-and-drug-misuse-deaths-2009-2019](https://www.nisra.gov.uk/publications/drug-related-and-drug-misuse-deaths-2009-2019); [https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/vital-events/deaths/drug-related-deaths-in-scotland/2020](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/vital-events/deaths/drug-related-deaths-in-scotland/2020)
 
 [^3]: Trainspotting is a 1996 film (and book) about a band of heroin-addicted friends dealing with the cultural void that was their country, Scotland, in the 1990s.
 It is without a doubt the best depiction of the modern implications of British colonialism to date.
@@ -228,10 +221,7 @@ It is without a doubt the best depiction of the modern implications of British c
 
 [^4]: There are many possible references for the Case Deaton approach explanation, the Deaths of Despair hypothesis.
 They are all referenced in their 2020 summary book, "Deaths of Despair and the Future of Capitalism."
-
 [https://press.princeton.edu/books/hardcover/9780691190785/deaths-of-despair-and-the-future-of-capitalism](https://press.princeton.edu/books/hardcover/9780691190785/deaths-of-despair-and-the-future-of-capitalism)
-
 There has been some recent work (Ruhm 2018) that distinguishes between deaths of despair and drugs addiction.
 I don't think there is as much of a distinction between the two as this work argues; drugs seem to be integrally linked to deaths of despair in a way that this work does not acknowledge.
-
 [https://www.nber.org/papers/w24188](https://www.nber.org/papers/w24188)
