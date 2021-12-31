@@ -193,16 +193,15 @@ I think a health economics project could explain this by using UK and Ireland's 
 Finding an explanation for why the South of England saw little rise on overdoses, while Scotland did, would be a huge development in understanding the Western World's problems with drug overdoses.
 It can even have explanations for the "opioid epidemic" in the US.
 
-I have thought about this for 2.5 years now and haven't found an angle to tackle this well myself, data to further investigate either.
-If any economists or data scientist read this and have further ideas to work on it, please do.
-I would love if you send me an email with your thoughts, or if you need any further ideas.
+I haven't found an angle to tackle this well myself, and neither any interesting data to further investigate.
+If any economist or data scientists read this and have further ideas to work on it, please feel free to run with the idea.
+I would love if you send me an email with your thoughts, or want a conversation on this topic.
 
 -----
 
 ### Footnotes
 
-[^1]: The article is a fantastic piece of journalism, well written with beautiful graphs and photography.  I would recommend it to all.
-The graphs presented are from the article.  Allison McCann, Mary Turner, NYT  "As Scotland’s ‘Trainspotting’ Generation Ages, the Dead Pile Up"  7 August 2019;  [https://www.nytimes.com/2019/08/07/world/europe/scotland-heroin-deaths.html](https://www.nytimes.com/2019/08/07/world/europe/scotland-heroin-deaths.html)
+[^1]: The article is a fantastic piece of journalism, well written with beautiful graphs and photography.  I would recommend it to all.  The graphs presented are from the article.  Allison McCann, Mary Turner, NYT  "As Scotland’s ‘Trainspotting’ Generation Ages, the Dead Pile Up"  7 August 2019;  [https://www.nytimes.com/2019/08/07/world/europe/scotland-heroin-deaths.html](https://www.nytimes.com/2019/08/07/world/europe/scotland-heroin-deaths.html)
 
 [^2]: The ONS hosts their data reports, and graphs, online in the following report.  It is a worth read for unbiased views and data on the topic.  [https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsrelatedtodrugpoisoninginenglandandwales/2020](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsrelatedtodrugpoisoninginenglandandwales/2020)  Equivalent organisations for the semi-autonomous regions of Scotland and the Northern Counties of Ireland have similar reports on the issue:  [https://www.nisra.gov.uk/publications/drug-related-and-drug-misuse-deaths-2009-2019](https://www.nisra.gov.uk/publications/drug-related-and-drug-misuse-deaths-2009-2019); [https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/vital-events/deaths/drug-related-deaths-in-scotland/2020](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/vital-events/deaths/drug-related-deaths-in-scotland/2020)
 
