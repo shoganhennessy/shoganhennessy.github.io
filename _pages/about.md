@@ -11,10 +11,10 @@ redirect_from:
 I am a PhD student in the Department of Economics at Cornell University, and I study labour economics using tools from data science.
 
 <p style="text-align:center;">
-    <img src="../images/profile-large.jpg"
-  alt="Headshot October 2021, Senan Hogan-Hennessy"
-  width="450"
-  height="499.5">
+  <img src="../images/profile-large.jpg"
+    alt="Headshot October 2021, Senan Hogan-Hennessy"
+    width="450"
+    height="499.5">
 </p>
 
 I am passionate about the study of inequality, data-centric research, and open-source software.
@@ -25,8 +25,3 @@ You can see my [CV here](https://shoganhennessy.github.io/files/cv/cv-shoganhenn
 When not contributing to my research, I am usually [riding my bike](https://shoganhennessy.github.io/cycling/).
 
 [^1]: My personal website is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub pages](https://pages.github.com).
-
-### To-Do
-
-- Blog post about Scotland overdoses
-- Blog post about experience as an RA, and the HBS
