@@ -3,8 +3,6 @@ The article discusses rates of opioid and heroine use in Scotland, and makes a b
 
 # Overdoses in Scotland and the United States
 
-overdoses-in-scotland-and-the-united-states
-
 <p align="center">
 <img src="../files/posts/2021-12-29-overdoses-in-scotland-and-the-united-states-files/nyt-graph-overdose.png" style="display: block; margin: auto;" />
 </p>
@@ -166,7 +164,7 @@ Their main difference is in size, where the US is much large in population and a
 England is clearly the dominant country in the UK makeup, which may explain why the UK as a whole does not have the rise in drug overdoses that we see in Scotland.
 The UK Office of National Statistics has documented that the rise in drug overdoses in the UK is concentrated outside of South England.[^2]
 
-<iframe height="574px" width="100%" src="https://www.ons.gov.uk/visualisations/dvc1499/fig4/index.html"></iframe>
+<iframe height="574px" width="150%" src="https://www.ons.gov.uk/visualisations/dvc1499/fig4/index.html"></iframe>
 
 The UK has a well-known North-South divide, where UK prosperity is concentrated in Southern England -- where historically the aristocracy and wealth of the UK have been centred.
 The North of England, Wales, and Scotland saw dramatic rises in living standards with the industrialisation of the the 1800s to mid-1900s, and a relative (to the South) fall with the deindustrialisation since the 1950s.
