@@ -164,17 +164,16 @@ Their main difference is in size, where the US is much large in population and a
 England is clearly the dominant country in the UK makeup, which may explain why the UK as a whole does not have the rise in drug overdoses that we see in Scotland.
 The UK Office of National Statistics has documented that the rise in drug overdoses in the UK is concentrated outside of South England.[^2]
 
-<iframe height="625px" width="100%" src="https://www.ons.gov.uk/visualisations/dvc1499/fig4/index.html"></iframe>
+<p align="center">
+<img src="../files/posts/2021-12-29-overdoses-in-scotland-and-the-united-states-files/ons-graph.png" style="display: block; margin: auto;" />
+</p>
 
 The UK has a well-known North-South divide, where UK prosperity is concentrated in Southern England -- where historically the aristocracy and wealth of the UK have been centred.
 The North of England, Wales, and Scotland saw dramatic rises in living standards with the industrialisation of the the 1800s to mid-1900s, and a relative (to the South) fall with the deindustrialisation since the 1950s.
 The relative position of Scotland and the rest of the UK to the South is particularly observed across cultural and media depictions of the areas, with perhaps the most memorable from a speech in the topical film Trainspotting.
 It is, after all, no coincidence that the NYT article refers to the Scotland's generational equivalent of the US "Generation X" as the "The Trainspotting Generation."[^3]
 
-<iframe
-width="100%"
-src="https://youtu.be/xCtPBFHKSNg?t=39">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xCtPBFHKSNg?controls=0&amp;start=39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Similarly, drug overdoses are also rising in the Northern Counties of Ireland, which has a very similar cultural position in the UK to Scotland since the 1996 peace agreement.[^2]
 The relative rise in opioid overdose viewed from the perspective of the Scotland, and North-South divide, sounds similar to the US-focuses hypothesis of Deaths of Despair.
