@@ -1,4 +1,4 @@
-Back in the summer of 2019 I picked up a print edition of the New York Times (NYT) in a coffee shop, then became entranced by an [article about rates of opioid overdoses in Scotland.](https://www.nytimes.com/2019/08/07/world/europe/scotland-heroin-deaths.html)[^1]
+Back in the summer of 2019 I picked up a print edition of the New York Times (NYT) in a coffee shop, and became entranced by an [article about rates of opioid overdoses in Scotland.](https://www.nytimes.com/2019/08/07/world/europe/scotland-heroin-deaths.html)[^1]
 The article discusses rates of opioid and heroine use in Scotland, and makes a brief comparison to rates in the United States (US).
 
 <p align="center">
@@ -12,7 +12,7 @@ Perhaps there is there a joint explanation for the US and Scotland's similar tre
 
 ## The Trainspotting Generation
 
-The UK and the US have long been considered close counterparts with many similarities, including per capita income and language.
+The UK and the US have long been considered close counterparts, sharing many similarities including similar per capita income and the same language.
 Their main difference is in size, where the US is much large in population and area.
 [This table (reproduced from Wikipedia)](https://en.wikipedia.org/wiki/Countries_of_the_United_Kingdom#Statistics) compares the composition of the UK with the US to paint the picture.
 
@@ -159,41 +159,43 @@ Their main difference is in size, where the US is much large in population and a
 </td>
 </tr></tbody></table>
 
-England is clearly the dominant country in the UK makeup, which may explain why the UK as a whole does not have the rise in drug overdoses that we see in Scotland.
-The UK Office of National Statistics has documented that the rise in drug overdoses in the UK is concentrated outside of South England.[^2]
+It is clear that England is the dominant country in the UK, with the largest population and income for the region.
+Interestingly, the UK Office of National Statistics has documented that the rise in drug overdoses in the UK is concentrated outside of South England.[^2]
+The South of England is the most densely populated area of England, so its relative lack of drug overdoses likely explains why statistics for the UK as a whole do not show a rise in drug overdoses, as we see in Scotland.
 
 <p align="center">
 <img src="../files/posts/2021-12-29-overdoses-in-scotland-and-the-united-states-files/ons-graph.png" style="display: block; margin: auto;" />
 </p>
 
-The UK has a well-known North-South divide, where UK prosperity is concentrated in Southern England -- where historically the aristocracy and wealth of the UK have been centred.
-The North of England, Wales, and Scotland saw dramatic rises in living standards with the industrialisation of the the 1800s to mid-1900s, and a relative (to the South) fall with the deindustrialisation since the 1950s.
-The relative position of Scotland and the rest of the UK to the South is particularly observed across cultural and media depictions of the areas, with perhaps the most memorable from a speech in the topical film Trainspotting.
-It is, after all, no coincidence that the NYT article refers to the Scotland's generational equivalent of the US "Generation X" as the "The Trainspotting Generation."[^3]
+The UK has a well-documented North-South divide, where UK prosperity is concentrated in Southern England -- the area that historically the aristocracy and wealth of the UK have been centred.
+The North of England, Wales, and Scotland saw dramatic rises in living standards with the industrialisation of the the 1800s to mid-1900s.
+Yet, since the deindustrialisation following the 1950s, the North has seen a relative (to the South) fall in living standards.
+The relative position of Scotland, and North England, to the South is observed across cultural and media depictions of the areas, with the most memorable from a speech in the topical film Trainspotting.
+It is, after all, no coincidence that the NYT article refers to Scotland's generational equivalent of the US "Generation X" as the "The Trainspotting Generation."[^3]
 
 <p align="centre">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xCtPBFHKSNg?controls=0&amp;start=39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 Similarly, drug overdoses are also rising in the Northern Counties of Ireland, which has a very similar cultural position in the UK to Scotland since the 1996 peace agreement.[^2]
-The relative rise in opioid overdose viewed from the perspective of the Scotland, and North-South divide, sounds similar to the US-focuses hypothesis of Deaths of Despair.
-Professors Case and Deaton have developed a theory to explain declining white working-class life expectancy in the US, and how this relates to pain medication, alcoholism, and suicide rates in deindustrialised areas of the US.[^4]
-It seems to me that the issue is not uniquely American.
+The relative rise in opioid overdose viewed from the perspective of Scotland, and the North-South divide, sounds similar to the US-focused hypothesis of "Deaths of Despair."
+Professors Case and Deaton developed a theory to explain declining white working-class life expectancy in the US, and how this relates to pain medication, alcoholism, and suicide rates in deindustrialised areas of the US.[^4]
+It seems, to me, that the issue is not uniquely American.
 
 ## Future Work
 
 This post has looked at aggregate statistics on the rates of overdose in Scotland.
-Considering that the relatively prosperous South England has not seen a similar rise in overdoses, while areas of similar to Scotland have seen the rise, I think that this could prvide evidence for the Deaths of Despair Hypothesis for deindustrialised areas of the UK.
+Considering that the relatively prosperous South England has not seen a similar rise in overdoses, while Scotland and similar areas in the UK have seen the rise, I think that this could provide evidence for the Deaths of Despair Hypothesis for deindustrialised areas of the UK.
 
-The topic of rising overdoses in Scotland has not been focused on in research; I could only find a literature view on the topic from a public health view ([https://doi.org/10.1159/000516165](https://doi.org/10.1159/000516165)).
-The issue could do with quality empirical work on the topic:
-I think a health economics project could explain this by using UK and Ireland's Northern counties as comparisons, or constructed controls, for where overdoses have and have not risen over the last 20 years.
-Finding an explanation for why the South of England saw little rise on overdoses, while Scotland did, would be a huge development in understanding the Western World's problems with drug overdoses.
+The topic of rising overdoses in Scotland has not been focused in research; I could only find a literature view on the topic from a public health view ([https://doi.org/10.1159/000516165](https://doi.org/10.1159/000516165)).
+The issue could do with quality empirical work:
+I think a health economics project could provide an explanation by using the UK and Ireland's Northern counties as comparisons (or constructed controls) for where overdoses have and have not risen over the last 20 years.
+Finding an explanation for why the South of England saw little rise in overdoses, while Scotland did, would be a huge development in understanding the Western World's problems with drug overdoses.
 It can even have explanations for the "opioid epidemic" in the US.
 
-I haven't found an angle to tackle this well myself, and neither any interesting data to further investigate.
-If any economist or data scientists read this and have further ideas to work on it, please feel free to run with the idea.
-I would love if you send me an email with your thoughts, or want a conversation on this topic.
+I haven't found an angle to tackle this well myself, nor any interesting sources of data to further investigate the topic.
+If any economist or data scientists read this and have further ideas to work on this topic, then please feel free to run with the idea.
+I would love if you send me an email with your thoughts, or want a conversation about this topic.
 
 -----
 
