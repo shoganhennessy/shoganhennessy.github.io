@@ -368,8 +368,7 @@ represents to to measure economics publication and their outcomes.
 Hopefully use of these data and further ‘’applied mechanism design’’
 ([Serrano 2018](http://hdl.handle.net/10419/202594)) will help us
 understand the world of economics publications better.
-
-**Next up:** Looking at inclusion in the *NBER family*.
+[Raise a Github issue for this post](https://github.com/shoganhennessy/shoganhennessy.github.io/issues/new/choose) if you have any particular comments to raise for this post.
 
 -----
 

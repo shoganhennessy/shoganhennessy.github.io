@@ -196,7 +196,7 @@ It can even have explanations for the "opioid epidemic" in the US.
 I haven't found an angle to tackle this well myself, nor any interesting sources of data to further investigate the topic.
 If any economist or data scientists read this and have further ideas to work on this topic, then please feel free to run with the idea.
 I would love if you send me an email with your thoughts, or want a conversation about this topic.
-Please free to [raise a Github issue for this post](https://github.com/shoganhennessy/shoganhennessy.github.io/issues/new/choose) if you have any particular comments.
+[Raise a Github issue for this post](https://github.com/shoganhennessy/shoganhennessy.github.io/issues/new/choose) if you have any particular comments.
 
 -----
 
