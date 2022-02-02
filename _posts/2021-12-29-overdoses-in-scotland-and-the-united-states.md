@@ -177,6 +177,10 @@ It is, after all, no coincidence that the NYT article refers to Scotland's gener
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xCtPBFHKSNg?controls=0&amp;start=39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+<video width="560" height="315" controls>
+  <source src="../files/posts/2021-12-29-overdoses-in-scotland-and-the-united-states-files/trainspotting-scene.mp4" type="video/mp4">
+</video>
+
 Similarly, drug overdoses are also rising in the Northern Counties of Ireland, which has a very similar cultural position in the UK to Scotland since the 1996 peace agreement.[^2]
 The relative rise in opioid overdose viewed from the perspective of Scotland, and the North-South divide, sounds similar to the US-focused hypothesis of "Deaths of Despair."
 Professors Case and Deaton developed a theory to explain declining white working-class life expectancy in the US, and how this relates to pain medication, alcoholism, and suicide rates in deindustrialised areas of the US.[^4]
