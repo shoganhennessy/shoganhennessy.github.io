@@ -173,13 +173,16 @@ Yet, since the deindustrialisation following the 1950s, the North has seen a rel
 The relative position of Scotland, and North England, to the South is observed across cultural and media depictions of the areas, with the most memorable from a speech in the topical film Trainspotting.
 It is, after all, no coincidence that the NYT article refers to Scotland's generational equivalent of the US "Generation X" as the "The Trainspotting Generation."[^3]
 
+<!-- Youtube link instead.
 <p align="centre">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xCtPBFHKSNg?controls=0&amp;start=39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-
-<video width="560" height="315" controls>
-  <source src="../files/posts/2021-12-29-overdoses-in-scotland-and-the-united-states-files/trainspotting-scene.mp4" type="video/mp4">
-</video>
+-->
+<p align="centre">
+    <video width="600" height="350" controls>
+      <source src="../files/posts/2021-12-29-overdoses-in-scotland-and-the-united-states-files/trainspotting-scene.mp4" type="video/mp4">
+    </video>
+</p>
 
 Similarly, drug overdoses are also rising in the Northern Counties of Ireland, which has a very similar cultural position in the UK to Scotland since the 1996 peace agreement.[^2]
 The relative rise in opioid overdose viewed from the perspective of Scotland, and the North-South divide, sounds similar to the US-focused hypothesis of "Deaths of Despair."
