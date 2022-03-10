@@ -12,8 +12,6 @@ We're committed to equality in the sport, and generally having a good time on tw
 
 ![cycling](../files/cycling/combined-two.jpg)
 
-I started cycling at Pomona College, where I served as president of the college cycling club, and made some great friends in the local race scene from Cal State Fullerton and Team Go-Fast.
-
 Strava is the only social media platform I use; you can follow my cycling over here.
 
 <iframe height='160' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/7741397/activity-summary/b07ae5dcfcb65768a929e80a30b9b7c3844bf916'>
@@ -24,4 +22,10 @@ Strava is the only social media platform I use; you can follow my cycling over h
 
 # Race Reports
 
-A quote goes here
+Here are my latest summaries of races, and some general thoughts on cycling.
+
+{% include base_path %}
+
+{% for post in site.research reversed %}
+  {% include archive-single.html %}
+{% endfor %}
