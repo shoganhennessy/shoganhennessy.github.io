@@ -25,9 +25,3 @@ Strava is the only social media platform I use; you can follow my cycling over h
 # Race Reports
 
 A quote goes here
-
-{% include base_path %}
-
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
