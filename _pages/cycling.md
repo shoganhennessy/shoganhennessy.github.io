@@ -26,6 +26,6 @@ Here are my latest summaries of races, and some general thoughts on cycling.
 
 {% include base_path %}
 
-{% for post in site.research reversed %}
+{% for post in site.cycling reversed %}
   {% include archive-single.html %}
 {% endfor %}
