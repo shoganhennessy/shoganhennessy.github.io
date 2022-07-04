@@ -8,12 +8,12 @@ The article discusses rates of opioid and heroin use in Scotland, and makes a br
 Per capita rates of drug overdose in each nation seem to be near identical, which I find fascinating.
 The rest of the United Kingdom (UK, which mostly represents England thanks to its over-sized population in the British Isles) has not the same trend to the US and Scotland, despite being only a short border crossing away.
 Is this merely a statistical irregularity?
-Perhaps there is there a joint explanation for the US and Scotland's similar trend in overdose rate.
+Perhaps there is a joint explanation for the US and Scotland's similar trend in overdose rate.
 
 ## The Trainspotting Generation
 
 The UK and the US have long been considered close counterparts, sharing many similarities including similar per capita income and the same language.
-Their main difference is in size, where the US is much large in population and area.
+Their main difference is in size, where the US is much larger in population and area.
 [This table (reproduced from Wikipedia)](https://en.wikipedia.org/wiki/Countries_of_the_United_Kingdom#Statistics) compares the composition of the UK with the US to paint the picture.
 
 <table class="wikitable sortable">
@@ -168,7 +168,7 @@ The South of England is the most densely populated area of England, so its relat
 </p>
 
 The UK has a well-documented North-South divide, where UK prosperity is concentrated in Southern England -- the area that historically the aristocracy and wealth of the UK have been centred.
-The North of England, Wales, and Scotland saw dramatic rises in living standards with the industrialisation of the the 1800s to mid-1900s.
+The North of England, Wales, and Scotland saw dramatic rises in living standards with the industrialisation of the 1800s to mid-1900s.
 Yet, since the deindustrialisation following the 1950s, the North has seen a relative (to the South) fall in living standards.
 The relative position of Scotland, and North England, to the South is observed across cultural and media depictions of the areas, with the most memorable from a speech in the topical film Trainspotting.
 It is, after all, no coincidence that the NYT article refers to Scotland's generational equivalent of the US "Generation X" as the "The Trainspotting Generation."[^3]
