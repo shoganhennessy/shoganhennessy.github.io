@@ -1,0 +1,166 @@
+% PREAMBLE
+\documentclass[letterpaper,11pt,oneside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{setspace}
+\usepackage{natbib}                                        % Citation package, see https://en.wikibooks.org/wiki/LaTeX/Bibliography_Management#Natbib
+\usepackage{bibentry}
+\nobibliography*
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=blue, citecolor=blue, filecolor=magenta, urlcolor=blue}
+\usepackage{color}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage[UKenglish]{babel}
+\usepackage[UKenglish,cleanlook]{isodate}
+\usepackage{geometry}
+\usepackage[shortlabels]{enumitem} \setlist[enumerate]{leftmargin=0pt}
+\pagenumbering{gobble}
+\setlength{\parindent}{0pt}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Start CV document
+\begin{document}
+\newgeometry{left=0.5in, right=0.5in, top=0.75in}
+% NAME
+\centerline{\LARGE{\textbf{Senan Hogan-Hennessy}}}
+\vspace{0.1cm}
+% CONTACT INFO
+\begin{table}[H]
+    \centering
+    \begin{tabular*}{\textwidth}{l @{\extracolsep{\fill}} r}
+        \toprule
+        Department of Economics &
+            \href{https://shoganhennessy.github.io}{
+                \nolinkurl{shoganhennessy.github.io}} \\
+        Cornell University, 447 Uris Hall &
+            \href{https://economics.cornell.edu/senan-hogan-hennessy}{
+                \nolinkurl{economics.cornell.edu/senan-hogan-hennessy}} \\
+        Ithaca, NY 14850 USA &
+            \href{mailto:seh325@cornell.edu}{\nolinkurl{seh325@cornell.edu}} \\
+        \bottomrule
+    \end{tabular*}
+\end{table}
+
+%% MAIN
+% The main body is contained in a tabular environment. To move sections onto the next page, simply end the tabular environment and begin a new tabular environment.
+\noindent
+\begin{tabular}[\textwidth]{p{0.125\textwidth} p{0.825\textwidth}}
+    \Large{Education}
+    & \textbf{Cornell University} (in progress)  \hfill Last updated: \today
+
+    Ph.D. Economics, expected 2025 \vspace{0.1cm}
+    
+    \textbf{Pomona College}
+
+    B.A. Economics, minor Mathematics, 2018 \vspace{0.1cm}
+    
+    \textbf{London Oratory School}
+    
+    A-Levels. Economics, Mathematics, Chemistry, Biology, 2014 \vspace{0.2cm} \\
+    
+\Large{Research Experience}
+    & \textbf{Cornell University}, New York State USA 
+    
+    \textbf{Research Assistant, Institute for Labor Relations 2021--}
+
+    Project: Earnings, and hours worked in the gig economy.
+    \vspace{0.2cm}
+    
+    \textbf{The Behaviouralist}, London UK
+    
+    \textbf{Research Assistant, Data Science 2020}
+    
+    Project: Empirical and theoretical research assistance for Hahn, Metcalfe (AER 2021).
+    \vspace{0.2cm}
+
+    \textbf{Harvard Business School}, Massachusetts USA
+    
+    \textbf{Research Associate, Economics 2018-2019}
+    
+    Empirical projects on technological change, labor markets, and innovation using historical data.
+    Assistant to Professor Daniel Gross on various economics papers and projects.
+    \vspace{0.2cm} \\
+
+\Large{Teaching Experience}
+    & \textbf{Teaching Assistant, Cornell University, Department of Economics}
+    
+    ECON 6590 Empirical Strategies, Professor Douglas Miller, 2022-- \\
+
+    & \textbf{Teaching Assistant, Pomona College, Department of Economics}
+    
+    ECON167 Econometrics, Professor Pierangelo De Pace, 2016-2018
+
+    ECON101 Microeconomic Theory, Professor John Clithero, 2016
+
+    ECON052 Microeconomics, Professor James Lehman, 2015-2016
+
+%% Extra info
+\\[20ex]
+\Large{Other}
+    & \textbf{Citizenship}: United Kingdom, Ireland
+    
+    \textbf{Personal Interests}: Bicycle racing (primarily road cycling), open source software
+    
+    \textbf{Programming}: R, Python, Julia, Linux bash, \LaTeX \vspace{0.2cm} \\
+
+\Large{References}
+    & \begin{tabular}[t]{@{} l l}
+        Louis Hyman                                    & Daniel Gross                     \\
+        Professor, Institute for Workplace Studies     & Assistant Professor, Economics \& Strategy \\
+        Cornell University, Industrial Labor Relations & Duke University, Fuqua School of Business         \\
+        \href{mailto:louishyman@cornell.edu}{\nolinkurl{louishyman@cornell.edu}}
+            & \href{mailto:daniel.gross@duke.edu}{\nolinkurl{daniel.gross@duke.edu}}
+    \end{tabular}
+\end{tabular}
+
+%% Next page: superfluous list of things, including papers
+\newpage
+\onehalfspacing
+\restoregeometry
+\newgeometry{left=0.75in, right=0.75in, top=1in}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Current Projects
+\section*{Work in Progress}
+\begin{enumerate}[itemsep=2.5pt, label={}]
+    \item \bibentry{rideshare-research}
+    \item \bibentry{uni-funding-incidence}
+\end{enumerate}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Publications
+%\section*{Publications}
+%\begin{enumerate}[itemsep=2.5pt, label={}]
+%    \item NONE YET.
+%\end{enumerate}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Working papers.
+\section*{Working Papers}
+\begin{enumerate}[itemsep=2.5pt, label={}]
+    \item \bibentry{senan_hogan_hennessy_2021_4453438}
+\end{enumerate}
+
+\bibliographystyle{apalike}
+\nobibliography{bibliography.bib}
+ 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Presentation locations
+\section*{Presentations}
+\begin{enumerate}[noitemsep, label={}]
+    \item Cornell Economics, Labour Work in Progress Seminar 2021--
+\end{enumerate}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Awards
+\section*{Affiliations and Awards}
+\begin{enumerate}[itemsep=2pt, label={}]
+    \item \textbf{Center for the Study of Inequality Graduate Affiliate}, Cornell University 2021--
+    \item \textbf{Sage Fellowship}, Cornell University 2020--
+    \item \textbf{Lorne D. Cook Memorial Award}, Pomona College Economics 2018
+    \item \textbf{Sutton Trust -- Fulbright Programme}, London UK 2013-2014  
+\end{enumerate}
+
+\end{document}
