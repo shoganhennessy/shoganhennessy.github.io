@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Department of Economics at Cornell University, and I study labour economics using tools from data science.
+I am a PhD student in the Department of Economics at Cornell University, and my research focuses on estimating causal effects in empirical labour economics.
+My primary focus uses econometric methodology, and newer approaches from data science, to learn about economic mechnaisms and phenomena.
 
 <p style="text-align:center;">
-  <img src="../images/profile-large.jpg"
-    alt="Headshot October 2021, Senan Hogan-Hennessy"
-    width="450"
-    height="499.5">
+  <img src="../images/presentation.jpg"
+    height="500">
 </p>
 
 I am passionate about the study of inequality, data-centric research, and open-source software.
