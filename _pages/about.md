@@ -13,7 +13,7 @@ My primary focus uses econometric methodology, combined with tools from data sci
 
 <p style="text-align:center;">
   <img src="../images/presentation.jpg"
-    height="300">
+    height="350">
 </p>
 
 I am passionate about the study of inequality, data-centric research, and open-source software.
