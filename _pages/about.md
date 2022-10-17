@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 I am a PhD student in the Department of Economics at Cornell University, and my research focuses on estimating causal effects in empirical labour economics.
-My primary focus uses econometric methodology, and newer approaches from data science, to learn about economic mechnaisms and phenomena.
+My primary focus uses econometric methodology, combined with tools from data science to collect and build unique data, to uncover the underlying systems and economic processes.
 
 <p style="text-align:center;">
   <img src="../images/presentation.jpg"
-    height="500">
+    height="300">
 </p>
 
 I am passionate about the study of inequality, data-centric research, and open-source software.
