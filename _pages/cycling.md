@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 Road cycling is my main hobby, outside academic pursuits.
-I ride my bike up to a dozen hours a week, and participate primarily in road criteria as a category 4 racer.
+I ride my bike up to a dozen hours a week, and race primarily in road criteria.
 
 My current amateur racing team is [B2C2 Cycling](https://b2c2cycling.com/).
 We are committed to equality in the sport, and generally having a good time on two wheels.
