@@ -13,7 +13,7 @@ My primary focus uses tools from data science to build unique data, and economet
 
 <p style="text-align:center;">
   <img src="../images/presentation.jpg"
-    width="500">
+    width="400">
 </p>
 
 I am passionate about the study of inequality, data-centric research, and open-source software.
@@ -21,6 +21,6 @@ Take a look at my early stage thoughts in my [posts tab](https://shoganhennessy.
 
 You can see my [CV here](https://shoganhennessy.github.io/files/cv/cv-shoganhennessy.pdf), and my [Cornell profile here](https://economics.cornell.edu/senan-hogan-hennessy).
 
-When not contributing to my research, I am usually [riding my bike](https://shoganhennessy.github.io/cycling/).[^1]
+When not working, I am usually [riding my bike](https://shoganhennessy.github.io/cycling/).[^1]
 
 [^1]: My personal website is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub pages](https://pages.github.com).
