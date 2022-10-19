@@ -13,7 +13,7 @@ My primary focus uses tools from data science to build unique data, and economet
 
 <p style="text-align:center;">
   <img src="../images/presentation.jpg"
-    height="300">
+    width="500">
 </p>
 
 I am passionate about the study of inequality, data-centric research, and open-source software.
