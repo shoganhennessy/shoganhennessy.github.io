@@ -44,14 +44,14 @@ Joint work with Seungmin Lee, Chris Barrett (Cornell Dyson Applied Economics)
 
 Economics project measuring food insecurity, furthering applied econometrics methods to infer time dynamics in the absence of explicit panel data.
 
+### Immediate Effects of a Faculty Union
+
+Labour economics project analysing the (causal) effect of a new collective bargaining agreement on public university professors.
+Focuses on the differential effects on tenured and non-tenured professors, using a difference-in-difference approach.
+
 ### Overlapping Measures of Rideshare Drivers' Hours and Earnings in the Gig Economy
 
 Joint work with Louis Hyman, Yudi Wang (Cornell Industrial Labor Relations)
 
 General interest project combining multiple sources of administrative data on the exact hours worked of rideshare drivers.
 In-prepartion draft delayed by recent developments at Uber.
-
-### Immediate Effects of a Faculty Union
-
-Labour economics project analysing the (causal) effect of a new collective bargaining agreement on public university professors.
-Focuses on the differential effects on tenured and non-tenured professors, using a difference-in-difference approach.
