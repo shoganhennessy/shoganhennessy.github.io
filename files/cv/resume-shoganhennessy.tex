@@ -1,0 +1,121 @@
+% PREAMBLE
+\documentclass[letterpaper,11pt,oneside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{setspace}
+\usepackage{natbib}                                        % Citation package, see https://en.wikibooks.org/wiki/LaTeX/Bibliography_Management#Natbib
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=blue, citecolor=blue, filecolor=magenta, urlcolor=blue}
+\usepackage{color}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage[USenglish]{babel}
+\usepackage[USenglish,cleanlook]{isodate}
+\usepackage{geometry}
+\usepackage[shortlabels]{enumitem}
+\pagenumbering{gobble}
+\setlength{\parindent}{0pt}
+\usepackage[explicit]{titlesec}
+\usepackage{ulem}
+\titleformat{\subsection}{\normalfont\large}{\thesubsection}{1em}{\uline{\textbf{#1}}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Start CV document
+\begin{document}
+\newgeometry{left=2.54cm, right=2.54cm, top=2cm, bottom=2cm}
+% NAME
+\centerline{\LARGE{\textbf{Senan Hogan-Hennessy}}}
+\vspace{0.1cm}
+% CONTACT INFO
+\begin{table}[H]
+    \centering
+    \begin{tabular*}{\textwidth}{l @{\extracolsep{\fill}} r}
+        \toprule
+        Uris Hall \#447 &
+            \href{https://shoganhennessy.github.io}{
+                \nolinkurl{shoganhennessy.github.io}} \\
+        Department of Economics &
+            \href{https://economics.cornell.edu/senan-hogan-hennessy}{
+                \nolinkurl{economics.cornell.edu/senan-hogan-hennessy}} \\
+        Cornell University, NY 14850 USA &
+            \href{mailto:seh325@cornell.edu}{\nolinkurl{seh325@cornell.edu}} \\
+        \bottomrule
+    \end{tabular*}
+\end{table}
+
+%% Intro paragraph.
+Economist with 4$+$ years experience in academia, and experience in industry.
+Experience with statistical methods for causal inference, in observational and randomization settings, empirical labor economics, and programming languages such as Python (pandas, scikit-learn, NetworkX) and R (tidyverse, ggplot2, XGBoost). 
+
+%% EDUCATION 
+\subsection*{Education}
+\begin{enumerate}[itemsep=2.5pt, label={}, leftmargin=0pt]
+    \item \textbf{Ph.D. Economics, Cornell University, NY \hfill 2020--present}
+    \begin{enumerate}[itemsep=0pt, label={\textbf{--}}, leftmargin=12pt]
+        \item Research studying the determinants of faculty hires and salaries (labor economics), and statistical methods for causal analysis in observational settings (applied econometrics).
+        Details on all projects, including working papers, \href{https://shoganhennessy.github.io/research/}{available here}.
+
+        \item Lead collaborative project using econometric $+$ causal methods as part of a computer science-focused team at NYU, \href{https://doi.org/10.48550/arXiv.2210.07970}{see here}.
+        
+        \item Graduate coursework in econometrics, machine learning, and computer science.
+        Academic C.V. \href{https://shoganhennessy.github.io/files/cv/cv-shoganhennessy.pdf}{available here}.
+\end{enumerate}
+    
+    \item \textbf{B.A. Economics $+$ mathematics (statistics focus), Pomona College, CA \hfill 2018}
+\end{enumerate}
+
+
+%% Experience
+\subsection*{Professional Experience}
+\begin{enumerate}[itemsep=2.5pt, label={}, leftmargin=0pt]
+    %\item Economics Researcher, Cornell University, NY \hfill 2020--present
+    %\begin{enumerate}[itemsep=0pt, label={\textbf{--}}, leftmargin=12pt]
+    %    \item Statistical programming using Python, R and report compilation as part of collaborative teams.
+    %    \item Data-lead on various academic projects using custom-built, or administrative, data to analyze economic systems.
+    %    Full details \href{https://shoganhennessy.github.io/research/}{available here}.
+    %\end{enumerate}
+    \item \textbf{Data Science Intern, The Behaviouralist, London UK \hfill 2020}
+    \begin{enumerate}[itemsep=0pt, label={\textbf{--}}, leftmargin=12pt]
+        \item Designed and implemented a fuzzy-matching process to combine two databases of UK business activity based on street addresses, and presented results to consultancy stakeholders.
+        \item Data-lead for consultancy and academic-focused projects.
+    \end{enumerate}
+    
+    \item \textbf{Research Associate, Harvard Business School, MA \hfill 2018--2019}
+    \begin{enumerate}[itemsep=0pt, label={\textbf{--}}, leftmargin=12pt]
+        \item Developed a Python tool to probabilistically match multiple historical databases, using ancestry-based graph data to link administrative records.
+        \item Research assistant to Professor Daniel Gross on multiple academic research projects, including code-base maintenance on a customized Unix server.
+    \end{enumerate}
+\end{enumerate}
+    
+%% Technical Skills
+\subsection*{Technical Skills \& Other Information}
+\begin{enumerate}[itemsep=0pt, label={\textbf{--}}, leftmargin=12pt]
+    \item Causal inference: methods to causally analyze treatment effects and heterogeneity analysis
+    (diff-in-diff, regression discontinuity, IV, randomization, etc.)
+    \item Python: Pandas$+$numpy (data structures), matplotlib (visualization), scikit-learn$+$SciPy (ML$+$ optimization), NetworkX (graph data), requests$+$selenium (web scraping)
+    \item R: Tidyverse (general purpose), ggplot2 (visualization), XGBoost$+$caret (ML)
+    \item Programming: SQL, Julia,  experience with Git and Bash
+    \item Citizenship: United Kingdom %, Ireland
+    \item Personal Interests: Road cycling and racing, open source software
+\end{enumerate}
+
+%% Professional references
+%\newpage
+%\subsection*{Professional References}
+%    \begin{tabularx}{\t%extwidth}{@{} X X}
+%        Louis Hyman                                             & Jesper Åkesson \\
+%        Professor, Industrial Labor Relations                    \\
+%        Director, Institute for Workplace Studies               & Managing Director  \\
+%        Cornell University                                      & The Behaviouralist \\
+%        \href{mailto:louishyman@cornell.edu}{\nolinkurl{louishyman@cornell.edu}} &
+%            \href{mailto:jesper@thebehaviouralist.com}{\nolinkurl{jesper@thebehaviouralist.com}} \\
+%            \\
+%        Douglas Miller                                          & Daniel Gross \\
+%        Professor, Economics Department                         & Assistant Professor, Economics \\
+%        (Primary Advisor, Senan's Ph.D. Committee)              & Fuqua School of Business \\
+%        Cornell University                                      & Duke University \\
+%        \href{mailto:dlm336@cornell.edu}{\nolinkurl{dlm336@cornell.edu}} &
+%        \href{mailto:daniel.gross@duke.edu}{\nolinkurl{daniel.gross@duke.edu}}
+%    \end{tabularx}
+\end{document}
