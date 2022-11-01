@@ -25,7 +25,7 @@ These results exhibit one long-term effect of stagnating state support for highe
 ### Market Interventions in a Large-Scale Virtual Economy
 
 In-preparation, view-able [here](https://doi.org/10.48550/arXiv.2210.07970).
-Joint work with Peter Xenopoulos, Claudio Silva (NYU Tandon)
+Joint work with Peter Xenopoulos, Claudio Silva (NYU)
 
 Massively multiplayer online role-playing games often contain sophisticated in-game economies.
 Many important real-world economic phenomena, such as inflation, economic growth, and business cycles, are also present in these virtual economies.
@@ -40,7 +40,7 @@ Our findings yield useful insights not only into the effect of market interventi
 
 ### Estimates of US Food Insecurity Dynamics: Measuring Food Insecurity Across the US with a New Synthetic Panel Approach
 
-Joint work with Seungmin Lee, Chris Barrett (Cornell Dyson Applied Economics)
+Joint work with Seungmin Lee, Chris Barrett (Cornell, Dyson)
 
 Economics project measuring food insecurity, furthering applied econometrics methods to infer time dynamics in the absence of explicit panel data.
 
@@ -51,7 +51,7 @@ Focuses on the differential effects on tenured and non-tenured professors, using
 
 ### Overlapping Measures of Rideshare Drivers' Hours and Earnings in the Gig Economy
 
-Joint work with Louis Hyman, Yudi Wang (Cornell Industrial Labor Relations)
+Joint work with Louis Hyman, Yudi Wang (Cornell, Industrial Labor Relations)
 
 General interest project combining multiple sources of administrative data on the exact hours worked of rideshare drivers.
 In-prepartion draft delayed by recent developments at Uber.
