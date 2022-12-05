@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Department of Economics at Cornell University, and my research focuses on estimating causal effects in empirical labour economics.
-My primary focus uses tools from data science to build unique data, and econometric methodology to uncover the underlying systems and economic processes.
+I am a PhD student in the Department of Economics at Cornell University, and my research focuses on estimating causal effects and applications in labour economics.
+I use tools from data science to build unique data, and employ econometric models to uncover causal relationships in economic applications.
+My [recent work](https://shoganhennessy.github.io/research/) focuses on:
+
+- The changing composition of faculty at US public universities
+- Methods to estimate persistence of food in security among families in the US, in the absence of precise panel data
 
 <p style="text-align:center;">
   <img src="../images/presentation.jpg"
