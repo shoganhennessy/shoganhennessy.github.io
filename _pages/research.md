@@ -5,8 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on estimating causal effects and applications in economics.
-I use tools from data science to build unique data, and employ econometric models to uncover causal relationships in economic applications.
+My research focuses on estimating causal effects with unique data, for applications in labour economics.
 I am in the third year of a PhD in economics at Cornell University, where I am contributing to multiple projects to build my dissertation.
 
 ## Working Papers
