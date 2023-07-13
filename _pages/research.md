@@ -10,7 +10,7 @@ I am in the third year of a PhD in economics at Cornell University, where I am c
 
 ## Working Papers
 
-### [“Changes in Faculty Composition and Stagnating State Support for Higher Education,” in-preparation](https://github.com/shoganhennessy/state-faculty-composition)
+### [“Changes in Faculty Composition and Stagnating State Support for Higher Education,” in-preparation](https://github.com/shoganhennessy/state-funding-faculty)
 
 Empirical economics project that causally links two recent trends:
 
@@ -18,7 +18,7 @@ Empirical economics project that causally links two recent trends:
 - stagnating support from state governments to state universities
 
 The analysis uses a shift-share approach to show that falls in state support explain 40\% of the substitution towards lecturers, away from tenured faculty.
-Analysis of every public university professor in Illinois implies that incumbent professors are unaffected, and that changes in faculty composition at public universities arise via falls in future hiring after revenue shocks.
+Analysis of every public university professor in Illinois implies that incumbent professors are unaffected, and that changes in faculty composition at public universities arise via falls in future hiring after funding cuts.
 
 ## Work in Progress
 
