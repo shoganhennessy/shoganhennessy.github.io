@@ -200,7 +200,7 @@ FUNCTION {field.or.null}
 FUNCTION {emphasize}
 { duplicate$ empty$
     { pop$ "" }
-    { "{\em " swap$ * "}" * }
+    { "{\em \textbf{" swap$ * "}}" * }
   if$
 }
 
@@ -212,7 +212,7 @@ FUNCTION {format.names}
   s num.names$ 'numnames :=
   numnames 'namesleft :=
     { namesleft #0 > }
-    { s nameptr "{vv~}{ll}{, jj}{, f.}" format.name$ 't :=   % last name first
+    { s nameptr "{vv~}{ff}{ jj}{ ll}" format.name$ 't :=   % last name first
       nameptr #1 >
         { namesleft #1 >
             { ", " * t * }
@@ -482,10 +482,6 @@ FUNCTION {format.incoll.inproc.crossref}
 FUNCTION {article}
 { output.bibitem
   format.title "title" output.check
-  output.year.check                                     % apalike
-  new.block
-  format.authors "author" output.check
-  author format.key output                              % special for
   new.block
   crossref missing$
     { journal emphasize "journal" output.check
@@ -495,6 +491,10 @@ FUNCTION {article}
       format.pages output
     }
   if$
+  output.year.check                                     % apalike
+  new.block
+  format.authors "author" output.check
+  author format.key output                              % special for
   new.block
   note output
   fin.entry

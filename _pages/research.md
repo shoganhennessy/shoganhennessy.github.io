@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on estimating causal effects with unique data, for applications in labour economics.
-I am in the third year of a PhD in economics at Cornell University, where I am contributing to multiple projects to build my dissertation.
+My research focuses on estimating causal effects with unique data, in the field of labour economics.
+I am in the fourth year of an Economics PhD at Cornell University, where I am contributing to multiple projects to build my dissertation.
 
 ## Working Papers
 
@@ -22,11 +22,16 @@ Analysis of every public university professor in Illinois implies that incumbent
 
 ## Work in Progress
 
+### “Mendelian Randomisation for the Returns to Education.”
+
+Economics work-in-progress advancing instrumental variables methods in empirical labour.
+I connect the exclusion restriction assumption with the causal mediation literature, and an application to using genetic measures as instruments (a.k.a. Mendelian randomisation).
+
 ### “Estimates of US Food Insecurity Dynamics: Measuring Food Insecurity Across the US with a New Synthetic Panel Approach."  Joint with Seungmin Lee, Chris Barrett (Cornell)
 
-Economics project measuring food insecurity, furthering applied econometrics methods to infer time dynamics in the absence of explicit panel data.
+Economics project measuring food insecurity, furthering applied econometrics methods to infer time dynamics in the absence of explicit panel data, and measuring food insecuirty in the US Census (CPS-FSS).
 
-### [“Market Interventions in a Large-Scale Virtual Economy,” in-preparation](https://doi.org/10.48550/arXiv.2210.07970). Joint with Peter Xenopoulos, Claudio Silva (NYU)
+### [“Market Interventions in a Large-Scale Virtual Economy,” 2022](https://doi.org/10.48550/arXiv.2210.07970). Joint with Peter Xenopoulos, Claudio Silva (NYU)
 
-Project studying the causal effects of market interventions in an online multiplayer game's economy.
+Study of large market interventions in an online multiplayer game's economy, and the causal effects on market activity.
 Combines insights from applied econometrics, and data science in the study of virtual games.
