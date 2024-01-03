@@ -10,7 +10,7 @@ I am in the fourth year of an Economics PhD at Cornell University, where I am co
 
 ## Working Papers
 
-### [Changes in Faculty Composition and Stagnating State Support for Higher Education (2023)](https://github.com/shoganhennessy/state-funding-faculty/blob/main/state-funding-faculty-2023.pdf)
+### [Changes in Faculty Composition and Stagnating State Support for Higher Education (2024)](https://github.com/shoganhennessy/state-funding-faculty/blob/main/state-funding-faculty-2024.pdf)
 
 Empirical economics project that causally links two recent trends:
 
