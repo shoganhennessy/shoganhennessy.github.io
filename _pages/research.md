@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on estimating causal effects with unique data, in the field of labour economics.
+My research is generally in the field of labour economics, with a number of different applications.
 I am in the fourth year of an Economics PhD at Cornell University, where I am contributing to multiple projects to build my dissertation.
 
 ## Working Papers
@@ -22,7 +22,7 @@ Analysis of every public university faculty member in Illinois shows that incumb
 
 ## Work in Progress
 
-### Breaking the Exclusion Restriction: Inference for IV Models, Mendelian Randomisation, and the Returns to Education (2023--)
+### The Mendelian Randomisation Research Design (2023--)
 
 Economics work-in-progress working to achieve (1) inference for instrumental variables (IV) models when the exclusion restriction is broken, and (2) a demonstration of Mendelian randomisation for the returns to education despite significant violations of the exclusion restriction.
 
