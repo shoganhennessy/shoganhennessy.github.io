@@ -24,13 +24,14 @@ Analysis of every public university faculty member in Illinois shows that incumb
 
 ### The Mendelian Randomisation Research Design (2023--)
 
-Economics work-in-progress working to achieve (1) inference for instrumental variables (IV) models when the exclusion restriction is broken, and (2) a demonstration of Mendelian randomisation for the returns to education despite significant violations of the exclusion restriction.
-
-Non-parametric identification in IV models is contaminated by violations in the exclusion restriction, but insights from the causal mediation literature can recover inference on treatment effects under alternative assumptions.
-These insights inform an application of IV with genetic data, Mendelian randomisation, which is extremely influential in biological sciences --- but not in economics thanks to invalidity of the exclusion restriction in economic applications.
-I return to the classic labour economics problem of estimating labour market returns to education, using genetic and labour market data on retirement-age Americans from the Health and Retirement Study.
-Mendelian randomisation produces estimates similar to previous results in the labour economics literature, after using methods to account for violations in the exclusion restriction.
-These results inform future analyses using IV methods when the exclusion restriction is in doubt, and advocate for further work using Mendelian randomisation in economics research.
+Recent advances in genetic technology have allowed researchers to identify and measure genetic locations in the human genome associated with health and social outcomes, such as education attainment.
+These measures are genetic scores, and a nascent literature economic literature documents how the education attainment genetic score (EA score, Lee at al. 2018) is related to many outcomes, including retirement wealth, life-cycle income, elementary school performance, and longevity.
+This work re-analyses the claims that the EA score affects outcomes directly or via further education attainment.
+I use genetic and labour market data on retirement-age Americans from the Health and Retirement Study, together with insights from Mendelian randomisation and causal mediation methods to decompose the direct and indirect effects of genetic predisposition on later-life earnings.
+Preliminary results show that effects of EA score on later life earnings explain are roughly half returns to education and half direct genetic effects.
+These methods rely on a selection-on-observables assumption for selection into education, which is unlikely to hold true in practice.
+I develop expressions for selection bias in causal mediation estimators, and establish that these terms likely lead to under-estimates of the direct genetic effects thanks to positive unobserved selection into education.
+These results add causal structure to claims that EA score affects outcomes directly, and set the stage for further research disentangling the direct and indirect effects of new genetic measures.
 
 ### Estimates of US Food Insecurity Dynamics: Measuring Food Insecurity Across the US with a New Synthetic Panel Approach (2023--), joint with Seungmin Lee, Chris Barrett, John Hoddinott (Cornell)
 
