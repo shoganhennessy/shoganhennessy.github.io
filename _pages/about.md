@@ -11,7 +11,7 @@ redirect_from:
 I am a PhD student in the Department of Economics at Cornell University, and my research uses unique data to learn about causal relationships in labour economics.
 
 <p style="text-align:center;">
-  <img src="../images/presentation-2024.jpg"
+  <img src="../images/presentation-2024.pdf"
     width="500">
 </p>
 
