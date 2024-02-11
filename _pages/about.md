@@ -11,7 +11,7 @@ I am a PhD student in the Economics Department at Cornell University, and my res
 
 <p style="text-align:center;">
   <img src="../images/presentation-2024.jpg"
-    width="650">
+    width="600">
 </p>
 
 My [recent research](https://shoganhennessy.github.io/research/) focuses on:
