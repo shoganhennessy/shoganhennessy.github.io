@@ -17,7 +17,7 @@ I am a PhD student in the Economics Department at Cornell University, and my res
 
 My [recent research](https://shoganhennessy.github.io/research/) focuses on:
 
-- Mendelian Randomisation, and estimating causal effects when the exclusion restriction is not credible
+- Mendelian Randomisation, and estimating causal effects in labour economics when the exclusion restriction is not credible
 - Faculty in US higher education, documenting the substitution away from employing tenured professors towards contingent lecturers following falls in state funding
 - Persistence of food in security among families in the US, in the absence of precise panel data.
 
