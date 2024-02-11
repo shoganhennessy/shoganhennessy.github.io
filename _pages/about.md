@@ -10,11 +10,6 @@ redirect_from:
 
 I am a PhD student in the Economics Department at Cornell University, and my research uses learns about causal relationships in labour economics.
 
-<p style="text-align:center;">
-  <img src="../images/presentation-2024.jpg"
-    width="500">
-</p>
-
 My [recent research](https://shoganhennessy.github.io/research/) focuses on:
 
 - Mendelian Randomisation, and estimating causal effects in labour economics when the exclusion restriction is not credible
