@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Department of Economics at Cornell University, and my research uses unique data to learn about causal relationships in labour economics.
+I am a PhD student in the Economics Department at Cornell University, and my research uses learns about causal relationships in labour economics.
 
 <p style="text-align:center;">
   <img src="../images/presentation-2024.jpg"
