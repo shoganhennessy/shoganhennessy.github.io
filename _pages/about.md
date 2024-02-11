@@ -12,7 +12,7 @@ I am a PhD student in the Department of Economics at Cornell University, and my 
 
 <p style="text-align:center;">
   <img src="../images/presentation-2024.jpg"
-    width="700">
+    width="600">
 </p>
 
 My [recent research](https://shoganhennessy.github.io/research/) focuses on:
