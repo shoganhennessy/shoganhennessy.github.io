@@ -22,7 +22,7 @@ Analysis of every public university faculty member in Illinois shows that incumb
 
 ## Work in Progress
 
-### The Mendelian Randomisation Research Design (2023--)
+### The Direct and Indirect Effects of Genetics and Education Attainment (2023--)
 
 Recent advances in genetic technology have allowed researchers to identify and measure genetic locations in the human genome associated with health and social outcomes, such as education attainment.
 These measures are genetic scores, and a nascent literature economic literature documents how the education attainment genetic score (EA score, Lee at al. 2018) is related to many outcomes, including retirement wealth, life-cycle income, elementary school performance, and longevity.
