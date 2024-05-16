@@ -37,6 +37,10 @@ These results add causal structure to claims that EA score affects outcomes dire
 
 Economics project measuring food insecurity, furthering applied econometrics methods to infer time dynamics in the absence of explicit panel data, and measuring food insecurity in the US Census (CPS-FSS).
 
+### Food Insecurity Among Military Veterans: New Evidence from the PSID (2023--), joint with Seungmin Lee, Chris Barrett, John Hoddinott (Cornell), Matthew Rabbitt (USDA)
+
+Economics project measuring food insecurity, furthering applied econometrics methods to infer time dynamics in the absence of explicit panel data, and measuring food insecurity in the US Census (CPS-FSS).
+
 ### [Market Interventions in a Large-Scale Virtual Economy (2022),](https://doi.org/10.48550/arXiv.2210.07970) joint with Peter Xenopoulos, Claudio Silva (NYU)
 
 Study of large market interventions in an online multiplayer game's economy, and the causal effects on market activity.
