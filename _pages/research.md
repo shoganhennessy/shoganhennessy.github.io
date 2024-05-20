@@ -35,11 +35,11 @@ These results add causal structure to claims that EA score affects outcomes dire
 
 ### Estimates of US Food Insecurity Dynamics: Measuring Food Insecurity Across the US with a New Synthetic Panel Approach (2023--), joint with Seungmin Lee, Chris Barrett, John Hoddinott (Cornell)
 
-Economics project measuring food insecurity, furthering applied econometrics methods to infer time dynamics in the absence of explicit panel data, and measuring food insecurity in the US Census (CPS-FSS).
+Economics project measuring food insecurity, with new applied econometrics methods to infer time dynamics in the absence of explicit panel data, measuring food insecurity in the US Census (CPS-FSS).
 
 ### Food Insecurity Among Military Veterans: New Evidence from the PSID (2023--), joint with Seungmin Lee, Chris Barrett, John Hoddinott (Cornell), Matthew Rabbitt (USDA)
 
-Economics project measuring food insecurity, furthering applied econometrics methods to infer time dynamics in the absence of explicit panel data, and measuring food insecurity in the US Census (CPS-FSS).
+Economics project measuring food insecurity among military veterans, using newly crafted data from the PSID to causally measure the impact of military enlistment on food insecurity outcomes.
 
 ### [Market Interventions in a Large-Scale Virtual Economy (2022),](https://doi.org/10.48550/arXiv.2210.07970) joint with Peter Xenopoulos, Claudio Silva (NYU)
 
