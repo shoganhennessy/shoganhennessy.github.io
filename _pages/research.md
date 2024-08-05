@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 My name is Senan, and I am a labour economist.
-I am in the 5th year of an Economics PhD at Cornell University, where I am contributing to multiple projects to build my dissertation.
+I am in the 5th year of an Economics PhD at Cornell University, where I am building my dissertation.
 
 ## Working Papers
 
