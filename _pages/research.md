@@ -44,4 +44,4 @@ Economics project measuring food insecurity among military veterans, using newly
 ### [Market Interventions in a Large-Scale Virtual Economy (2022),](https://doi.org/10.48550/arXiv.2210.07970) joint with Peter Xenopoulos, Claudio Silva (NYU)
 
 Study of large market interventions in an online multiplayer game's economy, and the causal effects on market activity.
-Combines insights from applied econometrics, and data science in the study of virtual games.
+Combines insights from applied econometrics and data science in the study of virtual games.
