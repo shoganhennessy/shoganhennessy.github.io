@@ -4,10 +4,10 @@ permalink: /cycling/
 author_profile: true
 ---
 
-Road cycling is my main hobby, outside academic pursuits.
+Road cycling is my main hobby, outside of academia.
 I ride my bike regularly, and sometimes race in road criteria as part of [B2C2 Cycling](https://b2c2cycling.com/).
 
-![cycling](../files/cycling/combined-two-update.png)
+![cycling](../files/cycling/cycling-devens-2024.png)
 
 Strava is the only social medium I use; you can follow my cycling over here.
 
