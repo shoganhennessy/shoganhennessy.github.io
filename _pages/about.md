@@ -16,9 +16,9 @@ I am a PhD student in the Economics Department at Cornell University, and my res
 
 My [recent research](https://shoganhennessy.github.io/research/) focuses on:
 
-- Causal Mediation, and estimating indirect and direct effects of genetics and education
+- The direct and indirect effects of genetics and education
 - Faculty in US higher education, documenting the substitution away from employing tenured professors towards contingent lecturers following falls in state funding
-- Persistence of food in security among families in the US, in the absence of precise panel data.
+- Food insecurity among families in the US, in the absence of precise panel data and among US military veterans.
 
 I am passionate about the study of inequality, data-centric research, and open-source software.
 Take a look at my thoughts in my [posts tab](https://shoganhennessy.github.io/year-archive/), details on my academic work in my [research tab](https://shoganhennessy.github.io/research/).

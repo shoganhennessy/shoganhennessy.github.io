@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-My research is generally in the field of labour economics, with a number of different applications.
-I am in the fourth year of an Economics PhD at Cornell University, where I am contributing to multiple projects to build my dissertation.
+My name is Senan, and I am a labour economist.
+I am in the 5th year of an Economics PhD at Cornell University, where I am contributing to multiple projects to build my dissertation.
 
 ## Working Papers
 
