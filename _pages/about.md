@@ -25,4 +25,4 @@ Take a look at my thoughts in my [posts tab](https://shoganhennessy.github.io/ye
 
 You can see my [CV here](https://shoganhennessy.github.io/files/cv/cv-shoganhennessy.pdf), and my [Cornell profile here](https://economics.cornell.edu/senan-hogan-hennessy).
 
-When not working, I am usually [riding my bike](https://shoganhennessy.github.io/cycling/).
+When not working, I am usually [cycling](https://shoganhennessy.github.io/cycling/).
