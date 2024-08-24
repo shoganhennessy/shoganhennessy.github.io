@@ -14,8 +14,8 @@ I am in the 5th year of an Economics PhD at Cornell University, where I am build
 
 Empirical economics project that causally links two recent trends:
 
-- public universities' substitution towards contingent lecturers and teaching faculty, away from tenure-track/tenured professors
-- stagnating state funding for US public universities
+- Public universities' substitution towards contingent lecturers and teaching faculty, away from tenure-track/tenured professors
+- Stagnating state funding for US public universities.
 
 The analysis uses a shift-share approach to show that declining state funding explains the substitution towards lecturers away from professors.
 Analysis of every public university faculty member in Illinois shows that incumbent professors are unaffected, implying changes in faculty composition at public universities arise via falls in future hiring after funding cuts.
