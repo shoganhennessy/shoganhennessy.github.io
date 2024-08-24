@@ -22,16 +22,17 @@ Analysis of every public university faculty member in Illinois shows that incumb
 
 ## Work in Progress
 
-### The Direct and Indirect Effects of Genetics and Education (2023--)
+### The Direct and Indirect Effects of Genetics and Education (2024--)
 
-Recent advances in genetic technology have allowed researchers to identify and measure genetic locations in the human genome associated with health and social outcomes, such as education attainment.
-These measures are genetic scores, and a nascent literature economic literature documents how the education attainment genetic score (EA score, Lee at al. 2018) is related to many outcomes, including retirement wealth, life-cycle income, elementary school performance, and longevity.
-This work re-analyses the claims that the EA score affects outcomes directly or via further education attainment.
-I use genetic and labour market data on retirement-age Americans from the Health and Retirement Study, together with insights from Mendelian randomisation and causal mediation methods to decompose the direct and indirect effects of genetic predisposition on later-life earnings.
-EA score's association with later life earnings is explained ≈50% by returns to education and ≈50% by direct genetic effects.
-These methods rely on a selection-on-observables assumption for selection into education, which is unlikely to hold true without an overlapping identification strategy for years of education.
-I develop expressions for selection bias in conventionally used causal mediation estimators, and consider a control function approach for correcting estimates in the case of Roy-style selection into education.
-These results add causal structure to claims that EA score affects outcomes directly, and set the stage for further research disentangling the direct and indirect effects of new genetic measures.
+Recent advances in genetic technology measure genetic locations in the human genome associated with health and social outcomes, such as years of education.
+These measures are genetic scores, and a nascent literature economic literature documents how the education genetic score (EA Gene Score, Lee et al 2018) is related to many outcomes, including retirement wealth, life-cycle income, elementary school performance, and longevity.
+This work re-analyses the claims that education genetic score affects outcomes directly, and whether its effects can be explained purely by returns to education without any direct genetic effects.
+I use genetic and labour market data on retirement-age Americans from the Health and Retirement Study, and mediation methods to decompose the direct and indirect effects of genetic predisposition to education (EA Gene Score) on later-life earnings.
+Conventional mediation methods rely on a selection-on-observables assumption for selection into education, which is unlikely to hold true in an observational setting.
+I develop expressions for selection bias in mediation estimators, and survey the labour econometric methods for overcoming selection bias, including IV and structural selection models.
+After adjusting mediation methods for selection into education, the direct genetic channel is indistinguishable from zero, while the channel for returns to education is positive and aligns with previous estimates for returns to education.
+These results add structure to claims that genetics affects education and income, exposing that the EA Gene Score may not affect later-life income directly, as claimed by previous research.
+This work sets the stage for further research disentangling the direct and indirect effects of new genetic measures.
 
 ### Estimates of US Food Insecurity Dynamics: Measuring Food Insecurity Across the US with a New Synthetic Panel Approach (2023--), joint with Seungmin Lee, Chris Barrett, John Hoddinott (Cornell)
 
