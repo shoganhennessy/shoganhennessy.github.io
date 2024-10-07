@@ -30,7 +30,7 @@ This work re-analyses the claims that education genetic score affects outcomes d
 I use genetic and labour market data on retirement-age Americans from the Health and Retirement Study, and mediation methods to decompose the direct and indirect effects of genetic predisposition to education (EA Gene Score) on later-life earnings.
 Conventional mediation methods rely on a selection-on-observables assumption for selection into education, which is unlikely to hold true in an observational setting.
 I develop expressions for selection bias in mediation estimators, and survey the labour econometric methods for overcoming selection bias, including IV and structural selection models.
-After adjusting mediation methods for selection into education, the direct genetic channel is indistinguishable from zero, while the channel for returns to education is positive and aligns with previous estimates for returns to education.
+Preliminary results show that after adjusting mediation methods for selection into education, the direct genetic channel is indistinguishable from zero, while the channel for returns to education is positive and aligns with previous estimates for returns to education.
 These results add structure to claims that genetics affects education and income, exposing that the EA Gene Score may not affect later-life income directly, as claimed by previous research.
 This work sets the stage for further research disentangling the direct and indirect effects of new genetic measures.
 
