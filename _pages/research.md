@@ -24,16 +24,13 @@ Analysis of every public university faculty member in Illinois shows that incumb
 
 ### The Direct and Indirect Effects of Genetics and Education (2024--)
 
-Recent advances in genetic technology measure genetic locations in the human genome associated with health and social outcomes, such as years of education.
-These measures are polygenic indices, and a nascent literature economic literature documents how the education polygenic index (Ed PGI, Lee et al 2018) is related to many outcomes, including retirement wealth, life-cycle income, elementary school performance, and longevity.
-This work re-analyses the claims that Ed PGI affects later-life labour market outcomes directly, and whether its effects can be explained purely by returns to education --- without direct genetic effects.
-I use genetic and labour market data for thousands of members of the British public, in the UK Biobank, and mediation methods to decompose the direct and indirect effects of genetic predisposition to education (EA Gene Score) on later-life earnings.
-I show that conventional mediation methods may be contaminated when breaking assumptions, and derive the corresponding selection bias terms.
-I show that the selection-on-observables assumptions are unrealistic in most natural experiment settings, concluding that natural experiments are particularly vulnerable to biased direct and indirect effect estimates.
-Correspondingly, I use an overlapping natural experiment design to isolate causal effects using random variation in both genetics and education, to avoid breaking the above assumptions.
-Genetic deviation from one's parent gives plausibly random variation in genetic measures, and a legal change in school-leaving age instruments for random variation in education years.
-This approach gives a local version of the direct and indirect effects, local to the school-leaving age instrument compliers.
-Correlational evidence with public data shows that direct genetic effects are indistinguishable from zero --- all causal effects of the Ed PGI are explained by more years of education, and not by a direct channel.
+Recent advances in genetic technology measure genetic locations in the human genome associated with health and social outcomes, such as years of education --- polygenic indices.
+I show how that the Education year PolyGenic Index (Ed PGI, [Lee et al 2018](https://doi.org/10.1038/s41588-018-0147-3)) is related to later-life earnings, using random variation away from parents' genes to infer causal effects.
+Recent social science literature has speculated that genes associated with education relate to intelligence, and so would have independent, direct genetic effects on labour market outcomes.
+Then, I decompose the effects into direct genetic, and indirect effects from returns to education, using genetic and labour market data for thousands of members of the British public in the UK Biobank, and mediation methods to decompose the effects.
+I derive selection bias terms for conventional mediation methods when education is not randomly assigned --- as is likely the case for any mediator in any natural experiment settings.
+To avoid this, I use a legal change in school-leaving age to instrument for random variation in education, and estimate direct and indirect effects local to these compliers.
+Correlational evidence with public data shows that direct genetic associations are indistinguishable from zero --- all causal associations of the Ed PGI are explained by the indirect education channel, and not by a direct genetic channel.
 Causal estimates using restricted UK Biobank data are to follow.
 
 ### Food Insecurity Among Military Veterans (2023--), joint with Seungmin Lee (Notre Dame), Chris Barrett, John Hoddinott (Cornell), Matthew Rabbitt (USDA)
