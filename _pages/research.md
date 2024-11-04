@@ -28,7 +28,7 @@ Recent advances in genetic technology measure genetic locations in the human gen
 I show how that the Education year PolyGenic Index (Ed PGI, [Lee et al 2018](https://doi.org/10.1038/s41588-018-0147-3)) is related to later-life earnings, using random variation away from parents' genes to infer causal effects.
 A nascent social science literature has speculated that genes associated with education relate to intelligence, and so would have independent, direct genetic effects on labour market outcomes.
 I investigate this systematically by decomposing the causal effects into a direct genetic effect, and an indirect effect from returns to education, using genetic and labour market data for thousands of members of the British public in the UK Biobank.
-I derive selection bias terms for conventional mediation methods when education is not randomly assigned --- as is likely for any mediator in any natural experiment settings.
+I derive selection bias terms for conventional mediation methods when education is not randomly assigned --- as is likely for any mediator for any natural experiment.
 To avoid this, I use a legal change in school-leaving age to instrument for random variation in education, estimating direct and indirect effects local to these compliers.
 Correlational evidence with public data shows that direct genetic associations are indistinguishable from zero --- all causal associations of the Ed PGI are explained by the indirect education channel, and not by a direct genetic channel.
 Causal estimates using restricted UK Biobank data are to follow.
