@@ -48,7 +48,7 @@ Empirical economics project that causally links two recent trends:
 The analysis uses a shift-share approach to show that declining state funding explains the substitution towards lecturers away from professors.
 Analysis of every public university faculty member in Illinois shows that incumbent professors are unaffected, implying changes in faculty composition at public universities arise via falls in future hiring after funding cuts.
 
-### [Market Interventions in a Large-Scale Virtual Economy (2022),](https://doi.org/10.48550/arXiv.2210.07970) joint with Peter Xenopoulos, Claudio Silva (NYU)
+### Market Interventions in a Large-Scale Virtual Economy [(2022),](https://doi.org/10.48550/arXiv.2210.07970) joint with Peter Xenopoulos, Claudio Silva (NYU).
 
 Study of large market interventions in an online multiplayer game's economy, and the causal effects on market activity.
-Combines insights from applied econometrics and data science in the study of virtual games.
+Combines insights from applied economics and data science in the study of virtual games.
