@@ -21,6 +21,7 @@ Correlational evidence with public data shows that direct genetic associations a
 Causal estimates using restricted UK Biobank data are to follow.
 
 ### Causal Mediation in Natural Experiments (2024--).
+[(2025).](https://github.com/shoganhennessy/mediation-natural-experiment/blob/main/mediation-natural-experiment-2025.pdf)
 
 Natural experiments are a cornerstone of applied economics, providing settings for estimating causal effects with a compelling argument for treatment ignorability.
 Causal Mediation (CM) methods aim to estimate how much of the treatment effect operates through a proposed mediator, illuminating mechanisms that causal effects operate through.
@@ -39,7 +40,7 @@ Economics project measuring food insecurity among military veterans, using newly
 
 ## Working Papers
 
-### [Less Funding, More Lecturers, and Fewer Professors: Stagnating State Funding for Higher Education and its Effect on Faculty (2024)](https://github.com/shoganhennessy/state-funding-faculty/blob/main/state-funding-faculty-2024.pdf)
+### Less Funding, More Lecturers, and Fewer Professors: Stagnating State Funding for Higher Education and its Effect on Faculty [(2024).](https://github.com/shoganhennessy/state-funding-faculty/blob/main/state-funding-faculty-2024.pdf)
 
 Empirical economics project that causally links two recent trends:
 
