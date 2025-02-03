@@ -20,8 +20,7 @@ I use a legal change in school-leaving age to instrument for random variation in
 Correlational evidence with public data shows that direct genetic associations are indistinguishable from zero --- all causal associations of the Ed PGI are explained by the indirect education channel, and not by a direct genetic channel.
 Causal estimates using restricted UK Biobank data are to follow.
 
-### Causal Mediation in Natural Experiments (2024--).
-[(2025).](https://github.com/shoganhennessy/mediation-natural-experiment/blob/main/mediation-natural-experiment-2025.pdf)
+### Causal Mediation in Natural Experiments [(2025).](https://github.com/shoganhennessy/mediation-natural-experiment/blob/main/mediation-natural-experiment-2025.pdf)
 
 Natural experiments are a cornerstone of applied economics, providing settings for estimating causal effects with a compelling argument for treatment ignorability.
 Causal Mediation (CM) methods aim to estimate how much of the treatment effect operates through a proposed mediator, illuminating mechanisms that causal effects operate through.
@@ -31,7 +30,6 @@ Individuals' selection based on expected gains and costs is inconsistent with me
 I consider a control function approach, which overcomes these hurdles under alternative assumptions, using cost of mediator take-up as an instrument.
 Simulations confirm that this method corrects for persistent bias in conventional CM estimates, though require large sample sizes for correct inference.
 This approach gives applied researchers an alternative method to estimate CM effects when they can only establish a credible argument for randomisation of the initial treatment, and not a mediator, as is common in natural experiments.
-
 
 ### Food Insecurity Among Military Veterans (2023--), joint with Seungmin Lee (Notre Dame), Chris Barrett, John Hoddinott (Cornell), Matthew Rabbitt (USDA)
 
