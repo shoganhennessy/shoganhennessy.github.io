@@ -20,7 +20,7 @@ I use a legal change in school-leaving age to instrument for random variation in
 Correlational evidence with public data shows that direct genetic associations are indistinguishable from zero --- all causal associations of the Ed PGI are explained by the indirect education channel, and not by a direct genetic channel.
 Causal estimates using restricted UK Biobank data are to follow.
 
-### Causal Mediation in Natural Experiments [(2025).](https://github.com/shoganhennessy/mediation-natural-experiment/blob/main/mediation-natural-experiment-2025.pdf)
+### Causal Mediation in Natural Experiments [(2025)](https://github.com/shoganhennessy/mediation-natural-experiment/blob/main/mediation-natural-experiment-2025.pdf).
 
 Natural experiments are a cornerstone of applied economics, providing settings for estimating causal effects with a compelling argument for treatment ignorability.
 Causal Mediation (CM) methods aim to estimate how much of the treatment effect operates through a proposed mediator, illuminating mechanisms that causal effects operate through.
@@ -38,7 +38,7 @@ Economics project measuring food insecurity among military veterans, using newly
 
 ## Working Papers
 
-### Less Funding, More Lecturers, and Fewer Professors: Stagnating State Funding for Higher Education and its Effect on Faculty [(2024).](https://github.com/shoganhennessy/state-funding-faculty/blob/main/state-funding-faculty-2024.pdf)
+### Less Funding, More Lecturers, and Fewer Professors: Stagnating State Funding for Higher Education and its Effect on Faculty [(2024)](https://github.com/shoganhennessy/state-funding-faculty/blob/main/.state-funding-faculty-2024.pdf).
 
 Empirical economics project that causally links two recent trends:
 
@@ -48,7 +48,7 @@ Empirical economics project that causally links two recent trends:
 The analysis uses a shift-share approach to show that declining state funding explains the substitution towards lecturers away from professors.
 Analysis of every public university faculty member in Illinois shows that incumbent professors are unaffected, implying changes in faculty composition at public universities arise via falls in future hiring after funding cuts.
 
-### Market Interventions in a Large-Scale Virtual Economy [(2022),](https://doi.org/10.48550/arXiv.2210.07970) joint with Peter Xenopoulos, Claudio Silva (NYU).
+### Market Interventions in a Large-Scale Virtual Economy [(2022, with Peter Xenopoulos, Claudio Silva at NYU)](https://doi.org/10.48550/arXiv.2210.07970).
 
 Study of large market interventions in an online multiplayer game's economy, and the causal effects on market activity.
 Combines insights from applied economics and data science in the study of virtual games.
