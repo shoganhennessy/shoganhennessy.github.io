@@ -1,14 +1,14 @@
-Back in the summer of 2019 I picked up a copy of the New York Times (NYT), and became entranced by an [article about rates of opioid overdoses in Scotland.](https://www.nytimes.com/2019/08/07/world/europe/scotland-heroin-deaths.html)[^1]
+This is inspired by a New York Times (NYT) article [article about rates of opioid overdoses in Scotland.](https://www.nytimes.com/2019/08/07/world/europe/scotland-heroin-deaths.html)[^1]
 The article discusses rates of opioid and heroin use in Scotland, presents visualisations from the NYT original piece, and makes a brief comparison to rates in the United States (US).
 
 <p align="center">
 <img src="../files/posts/2021-12-29-overdoses-in-scotland-and-the-united-states-files/nyt-graph-overdose.png" style="display: block; margin: auto;" />
 </p>
 
-Per capita rates of drug overdose in each nation seem to be near identical, which I find fascinating.
-The rest of the United Kingdom (UK, which mostly represents England thanks to its over-sized population in the British Isles) has not the same trend to the US and Scotland, despite being only a short border crossing away.
+Per capita rates of drug overdose in each nation seem to be nearly identical.
+The rest of the United Kingdom (UK) has not the same trend to the US and Scotland, despite being only a short border crossing away.
 Is this merely a statistical irregularity?
-Perhaps there is a joint explanation for the US and Scotland's similar trend in overdose rate.
+Perhaps there is a joint explanation for the US and Scotland's similar trend in overdose rates.
 
 ## The Trainspotting Generation
 
