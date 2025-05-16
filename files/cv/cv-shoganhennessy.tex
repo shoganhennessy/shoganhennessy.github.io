@@ -3,8 +3,8 @@
 \usepackage[utf8]{inputenc}
 \usepackage{setspace}
 \usepackage{natbib}                                        % Citation package, see https://en.wikibooks.org/wiki/LaTeX/Bibliography_Management#Natbib
-\usepackage{bibentry}
-\nobibliography*
+%\usepackage{bibentry}
+%\nobibliography*
 \usepackage{hyperref}
 \hypersetup{colorlinks=true, linkcolor=blue, citecolor=blue, filecolor=magenta, urlcolor=blue}
 \usepackage{color}
@@ -22,10 +22,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Start CV document
 \begin{document}
-\newgeometry{left=0.5in, right=0.5in, top=0.75in}
+\newgeometry{left=0.75in, right=1in, top=0.75in}
 % NAME
-\centerline{\LARGE{\textbf{Senan Hogan-Hennessy}}}
-\vspace{0.1cm}
+\centerline{\Large{\textbf{Senan Hogan-Hennessy}}}
 % CONTACT INFO
 \begin{table}[H]
     \centering
@@ -46,91 +45,168 @@
 %% MAIN
 % The main body is contained in a tabular environment. To move sections onto the next page, simply end the tabular environment and begin a new tabular environment.
 \noindent
-\begin{tabular}[\textwidth]{p{0.13\textwidth} p{0.8275\textwidth}}
-    \Large{Education}
-    & \textbf{Cornell University} (in progress)  \hfill Last updated: \today
+\begin{longtable}[\textwidth]{p{0.13\textwidth} p{0.85\textwidth}}
+\textbf{Doctoral Studies}
+    & Cornell University \hfill (in progress) 2020--2026
 
-    Ph.D. Economics, 2020--2026
+    Ph.D. Economics
     
-    Fields: Labour economics, applied econometrics (secondary)
+    Fields: Labour economics, applied econometrics. \\ \\
     
-    \textbf{Pomona College}
+    & \textbf{Dissertation Committee and References:}
 
-    B.A. Economics $+$ mathematics, 2018 \vspace{0.2cm} \\
-    
-    %\textbf{London Oratory School}
-    
-    %A-Levels. Economics, Mathematics, Chemistry, Biology, 2014 \vspace{0.2cm} \\
-    
-\Large{Research Experience}
-    & \textbf{Cornell University}, New York USA
-    
-    \textbf{Research Assistant, Dyson School of Applied Economics} \hfill 2022--
-
-    Project: Dynamic estimates of food insecurity across the US.
-    
-    \textbf{Research Assistant, Institute for Labor Relations} \hfill 2021--2022
-    \vspace{0.1cm}
-
-    \textbf{Harvard Business School}, Massachusetts USA
-    
-    \textbf{Research Associate, Economics} \hfill 2018--2019
-    
-    Empirical projects on technological change, labour markets, and innovation using historical data.
-    Assistant to Professor Daniel Gross on various economics papers and projects.
-    \vspace{0.2cm} \\
-
-\Large{Teaching Experience}
-    & \textbf{Teaching Assistant, Cornell University, Economics Department}
-    
-    ILRE--2400 Intro to labour economics (undergraduate), Professor Stephanie Thomas \hfill 2024
-
-    ECON6590 Applied econometrics (graduate), Professor Douglas Miller \hfill 2022
-
-    \vspace{0.1cm}
-    \textbf{Teaching Assistant, Pomona College, Economics Department}
-    
-    ECON167 Econometrics, Professor Pierangelo De Pace \hfill 2016--2018
-
-    ECON101 Microeconomic theory, Professor John Clithero \hfill 2016 \\
-
-%% Extra info
-\\[15ex]
-\Large{Other}
-    & \textbf{Citizenship}: UK, Ireland.
-    
-    \textbf{Personal Interests}: Yoga, road cycling, open source software.
-    
-    \textbf{Programming}: R, Python, Bash, \LaTeX. \vspace{0.2cm} \\
-
-\Large{Advising Committee}
-    & \begin{tabular}[t]{@{} l l}
+    \begin{tabular}[t]{@{} l @{\hskip 0.25cm} l}
         Douglas Miller (Chair)                   & Zhuan Pei                                \\
         Professor, Economics                     & Associate Professor, Economics           \\
-        Cornell University, Economics Department & Cornell University, Economics Department \\
+        Cornell, Economics Department            & Cornell, Economics Department \\
         \href{mailto:dlm336@cornell.edu}{\nolinkurl{dlm336@cornell.edu}}
-            & \href{mailto:zhuan.pei@cornell.edu}{\nolinkurl{zhuan.pei@cornell.edu}}            \\ \\
+            & \href{mailto:zhuan.pei@cornell.edu}{\nolinkurl{zhuan.pei@cornell.edu}}        \\ \\
         Evan Riehl                                     \\
         Associate Professor, Economics                 \\
-        Cornell University, Industrial Labor Relations \\
+        Cornell, Industrial Labor Relations \\
         \href{mailto:eriehl@cornell.edu}{\nolinkurl{eriehl@cornell.edu}}
-    \end{tabular}
-\end{tabular}
+    \end{tabular} \\ \\
+\textbf{Prior}
+    & Pomona College, USA \hfill 2018 \\
+
+\textbf{Education}
+    & B.A. Economics $+$ mathematics  \\ \\
+
+\textbf{Citizenship}
+    & Great Britain, Ireland. \hfill \textbf{Gender:} Male. \\ \\
+
+\textbf{Languages}
+    & English (native). \\ \\
+        
+\textbf{Teaching Experience}
+    & Intro to labour economics (undergraduate, Cornell course ILRE--2400) \hfill 2024
+
+    \indent\hspace{1cm} Teaching assistant to Professor Stephanie Thomas.
+
+    Applied econometrics (graduate, Cornell course ECON--6590) \hfill 2022 
+    
+    \indent\hspace{1cm} Teaching assistant to Professor Douglas Miller.
+    
+    Econometrics (undergraduate, Pomona College course ECON--167) \hfill 2016--2018
+    
+    \indent\hspace{1cm} Teaching assistant to Professor Pierangelo De Pace.
+
+    Microeconomic theory (undergraduate, Pomona College course ECON--101) \hfill 2016
+
+    \indent\hspace{1cm} Teaching assistant to Professor John Clithero. \\ \\
+
+\textbf{Research Experience}
+    & Research Assistant, Cornell University
+
+    \indent\hspace{1cm} Professor Chris Barrett (Dyson), 2023--2024.
+
+    \indent\hspace{1cm} Professor Louis Hyman (ILR), 2021.
+
+    Data Science Intern, The Behaviouralist (London UK) \hfill 2020
+
+    \indent\hspace{1cm} Professors Robert Metcalfe and Robert Hahn.
+
+    Research Associate, Harvard Business School \hfill 2019
+
+    \indent\hspace{1cm} Professor Daniel Gross. \\ \\
+
+\textbf{Awards}
+    & Research Seed Grant, Cornell Center for the Study of Inequality \hfill 2024
+    
+    Small Labour Grant, Cornell University ILR \hfill 2024
+    
+    Sage Fellowship, Cornell University \hfill 2020, 2024
+    
+    Lorne D Cook Memorial Award, Pomona College \hfill 2018
+    
+    Distinction in Undergraduate Thesis, Pomona College \hfill 2018
+    
+    Sutton Trust -- Fulbright Programme, London UK \hfill 2013--2014 \\ \\
+
+\textbf{Professional}
+    & \textbf{Presentations:}
+    
+    European Economic Association Annual Congress, Bordeaux France \hfill 2025
+    
+    Econometric Society World Congress, Seoul Korea \hfill 2025
+    
+    European Association of Labour Economists Conference, NHH Norway \hfill 2024
+    
+    Economics Department Alumni Conference, Cornell University \hfill 2024
+    
+    Eastern Economic Association Annual Meeting, Boston USA \hfill 2024
+    
+    Center for the Study of Inequality, Cornell University \hfill 2024
+
+    Labour Work in Progress Seminar, Cornell University \hfill 2021, 2022, and so on. \\ \\
+
+\textbf{Research Papers}
+    & \textbf{The Direct and Indirect Effects of Genetics and Education (2025, JMP)}
+
+    (Draft forthcoming)
+
+    Recent genetic research has shown that genes matter for education and labour market outcomes, but has little to say on the economic mechanisms beneath these findings.
+    I use plausibly random deviation from parents as a natural experiment for the Education PolyGenic Index (Ed PGI) to estimate causal effects of genes associated with years of education, using data from the UK Biobank.
+    I then decompose these genetic effects into a direct genetic effect and indirect education pathway using a causal mediation framework that allows for selection-into-education, using multiple UK university openings in the 1960s as instruments for higher education attendance. 
+    The Ed PGI increases labour market earnings through higher education attendance, with direct genetic effects indistinguishable from zero --- contradicting previous speculation that education-linked genes independently increase intelligence or other labour market traits.
+    Education linked genes are more about returns to higher education, and less about direct genetic effects.
+    These findings reframe social science genetics by shifting focus from asking ``if genes matter'' to ``how genes matter'' --- not as deterministic forces, but as factors that influence human capital decisions within institutional constraints.
+    By using causal methods that explicitly account for individual choice, rather than assuming genetic determinism, this research provides a richer understanding of how biological inheritance, personal agency, and institutional structures interact to shape labour market inequality. \\ \\
+
+    & \textbf{\href{https://raw.githubusercontent.com/shoganhennessy/mediation-natural-experiment/main/mediation-natural-experiment-2025.pdf}{
+        Causal Mediation in Natural Experiments (2025)}}
+
+    Natural experiments are a cornerstone of applied economics, providing settings for estimating causal effects with a compelling argument for treatment ignorability.
+    Applied researchers often investigate mechanisms behind treatment effects by controlling for a mediator of interest, alluding to Causal Mediation (CM) methods for estimating direct and indirect effects (CM effects).
+    This approach to investigating mechanisms unintentionally assumes the mediator is quasi-randomly assigned --- in addition to the quasi-random assignment of the initial treatment.
+    Individuals' choice to take (or refuse) a mediator based on costs and benefits is inconsistent with mediator ignorability, suggesting in-practice estimates of CM effects are biased in natural experiment settings.
+    I solve for explicit bias terms when the mediator is not ignorable, imitating classical selection bias for average causal effects.
+    I consider an alternative approach to credibly estimate CM effects, when selection-into-mediator is driven by unobserved costs and benefits.
+    The approach uses a control function adjustment, relying on mediator take-up cost as an instrument.
+    Simulations confirm that this method corrects for selection bias in conventional CM estimates, providing both parametric and semi-parametric methods.
+    This approach gives applied researchers an alternative method to estimate CM effects when they can only establish a credible argument for quasi-random assignment of the initial treatment, and not a mediator, as is common in natural experiments. \\ \\
+
+    & \textbf{\href{https://raw.githubusercontent.com/shoganhennessy/state-funding-faculty/main/state-funding-faculty-2024.pdf}{
+        Less Funding, More Lecturers, and Fewer Professors (2024)}}
+
+    Public universities employ more lecturers and fewer professors today than at any other point in the last thirty years, relative to student enrolment.
+    At the same time, state funding for higher education has stagnated.
+    This paper shows that the decline in state funding led to a substitution away from professors toward lecturers at US public universities.
+    Using a shift-share approach to instrument for state funding, I find that universities employ 4.4\% more lecturers per student following a 10\% funding cut.
+    This shift is accompanied by a reduction in assistant and full professors by 1.4\% and 1.2\%  per student, respectively.
+    These effects are concentrated to 1990--2009, with waning national trends for 2010 and onwards.
+    Incumbent professors' salaries, promotion rates, and quit rates at Illinois universities remain unaffected by large funding cuts in the 2010s, indicating that the substitution arose from limiting the hiring of new professors.
+    Stagnating state funding impacts public universities and faculty, likely contributing to deteriorating student outcomes at public universities since the 1990s. \\ \\
+
+    & \textbf{Food Insecurity Among Military Veterans (2025)}
+
+    Joint with Seungmin Lee (Notre Dame), Chris Barrett, John Hoddinott (Cornell), Matthew Rabbitt (USDA).
+
+    (Draft Forthcoming) \\ \\
+
+\vfill \textbf{Other}
+    & \vfill \textbf{Personal Interests}: Yoga, road cycling, open source software.
+    
+    \textbf{Programming}: R, Python, Bash, \LaTeX.
+\end{longtable}
+\end{document}
+
+% Below is old code, which can be returned to after the job market.
 
 %% Next page: superfluous list of things, including papers
-\newpage
-\onehalfspacing
-\restoregeometry
-\newgeometry{left=0.75in, right=0.75in, top=1in}
+%\newpage
+%\onehalfspacing
+%\restoregeometry
+%\newgeometry{left=0.75in, right=0.75in, top=1in}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Current Projects
-\section*{Work in Progress}
-\begin{enumerate}[itemsep=2.5pt, label={}]
-    \item \bibentry{direct-indirect-education}
-    \item \bibentry{veterans-food-insec}
-    %\item \bibentry{domestic-food-sec}
-\end{enumerate}
+%\section*{Work in Progress}
+%\begin{enumerate}[itemsep=2.5pt, label={}]
+%    \item \bibentry{direct-indirect-education}
+%    \item \bibentry{veterans-food-insec}
+%    %\item \bibentry{domestic-food-sec}
+%\end{enumerate}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Publications
@@ -141,39 +217,11 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Working papers.
-\section*{Working Papers}
-\begin{enumerate}[itemsep=2.5pt, label={}]
-    \item \bibentry{mediation-natural-experiment}
-    \item \bibentry{state-funding-faculty}
-    \item \bibentry{osrs2022}
-\end{enumerate}
-\bibliographystyle{apalike-edit}
-\nobibliography{bibliography.bib}
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% Presentation locations
-\section*{Presentations and Conferences}
-\begin{enumerate}[itemsep=2pt, label={}]
-    \item European Economic Association Annual Congress, Bordeaux France \hfill (scheduled) 2025
-    \item Econometric Society World Congress, Seoul Korea \hfill (scheduled) 2025
-    \item European Association of Labour Economists Conference, NHH Norway \hfill 2024
-    \item Economics Department Alumni Conference, Cornell University \hfill 2024
-    \item Eastern Economic Association Annual Meeting, Boston USA \hfill 2024
-    \item Center for the Study of Inequality, Cornell University \hfill 2024
-    \item NBER Innovation Summer Research Programme, Boston USA \hfill 2023
-    \item Labour Work in Progress Seminar, Cornell University \hfill 2021, 2022, and so on.
-\end{enumerate}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% Awards
-\section*{Affiliations and Awards}
-\begin{enumerate}[itemsep=2pt, label={}]
-    \item \textbf{Research Seed Grant}, Cornell University Center for the Study of Inequality \hfill 2024
-    \item \textbf{Small Labour Grant}, Cornell University ILR \hfill 2024
-    \item \textbf{Sage Fellowship}, Cornell University \hfill 2020--
-    \item \textbf{Lorne D Cook Memorial Award}, Pomona College Economics Department \hfill 2018
-    \item \textbf{Distinction in Undergraduate Thesis}, Pomona College Economics Department \hfill 2018
-    \item \textbf{Sutton Trust -- Fulbright Programme}, London UK \hfill 2013--2014
-\end{enumerate}
-\end{document}
+% \section*{Working Papers}
+% \begin{enumerate}[itemsep=2.5pt, label={}]
+%     \item \bibentry{mediation-natural-experiment}
+%     \item \bibentry{state-funding-faculty}
+%     \item \bibentry{osrs2022}
+% \end{enumerate}
+% \bibliographystyle{apalike-edit}
+% \nobibliography{bibliography.bib}
