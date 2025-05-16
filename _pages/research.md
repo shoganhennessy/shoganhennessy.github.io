@@ -12,13 +12,13 @@ I am in the 5th year of an Economics PhD at Cornell University, where I am build
 
 ### The Direct and Indirect Effects of Genetics and Education (2024--).
 
-Recent advances in genetic technology measure genetic locations in the human genome associated with health and social outcomes, such as years of education --- polygenic indices.
-I show how that the Education year PolyGenic Index (Ed PGI, [Lee et al 2018](https://doi.org/10.1038/s41588-018-0147-3)) is related to later-life earnings, using random variation away from parents' genes to infer causal effects.
-A nascent social science literature has speculated that genes associated with education relate to intelligence, and so would have independent, direct genetic effects on labour market outcomes.
-I investigate this systematically by decomposing the causal effects into a direct genetic effect, and an indirect effect from returns to education, using genetic and labour market data for thousands of members of the British public in the UK Biobank.
-I use a legal change in school-leaving age to instrument for random variation in education, estimating direct and indirect effects by control function approach.
-Correlational evidence with public data shows that direct genetic associations are indistinguishable from zero --- all causal associations of the Ed PGI are explained by the indirect education channel, and not by a direct genetic channel.
-Causal estimates using restricted UK Biobank data are to follow.
+Social science genetics has shown genes matter for education and labour market outcomes, but has little to say on the economic mechanisms beneath these findings.
+I use plausibly random deviation from parents as a natural experiment for the Education PolyGenic Index (Ed PGI) to estimate causal effects of genes associated with years of education, using data from the UK Biobank.
+I then decompose these genetic effects into a direct genetic effect and indirect education pathway using a causal mediation framework that allows for selection-into-education, using multiple UK university openings in the 1960s as instruments for higher education attendance. 
+The Ed PGI increases labour market earnings through higher education attendance, with direct genetic effects indistinguishable from zero --- contradicting previous speculation that education-linked genes independently increase intelligence or other labour market traits.
+Education linked genes are more about returns to higher education, and less about direct genetic effects.
+These findings reframe social science genetics by shifting focus from asking ''if genes matter'' to ''how genes matter'' --- not as deterministic forces, but as factors that influence human capital investment decisions within institutional constraints.
+By using causal methods that explicitly account for individual choice, rather than assuming genetic determinism, this research provides a richer understanding of how biological inheritance, personal agency, and institutional structures interact to shape labour market inequality.
 
 ### Causal Mediation in Natural Experiments [(2025)](https://github.com/shoganhennessy/mediation-natural-experiment/blob/main/mediation-natural-experiment-2025.pdf).
 
