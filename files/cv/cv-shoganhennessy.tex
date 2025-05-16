@@ -15,18 +15,22 @@
 \usepackage[UKenglish]{babel}
 \usepackage[UKenglish,cleanlook]{isodate}
 \usepackage{geometry}
-\usepackage[shortlabels]{enumitem} \setlist[enumerate]{leftmargin=0pt}
-\pagenumbering{gobble}
+\usepackage{lastpage,fancyhdr}
+%\usepackage[shortlabels]{enumitem} \setlist[enumerate]{leftmargin=0pt}
 \setlength{\parindent}{0pt}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Start CV document
 \begin{document}
 \newgeometry{left=0.75in, right=1in, top=0.75in}
-% NAME
+% Adjust the footer to show page counter.
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0.4pt}
+% NAME & CONTACT INFO
 \centerline{\Large{\textbf{Senan Hogan-Hennessy}}}
-% CONTACT INFO
-\begin{table}[H]
+    \begin{table}[H]
     \centering
     \begin{tabular*}{\textwidth}{l @{\extracolsep{\fill}} r}
         \toprule
@@ -41,10 +45,11 @@
         \bottomrule
     \end{tabular*}
 \end{table}
+\fancyfoot[L]{CV, Senan Hogan-Hennessy, \today.
+    \hfill Page~$\thepage$ of \pageref{LastPage}.}
 
 %% MAIN
 % The main body is contained in a tabular environment. To move sections onto the next page, simply end the tabular environment and begin a new tabular environment.
-\noindent
 \begin{longtable}[\textwidth]{p{0.13\textwidth} p{0.85\textwidth}}
 \textbf{Doctoral Studies}
     & Cornell University \hfill (in progress) 2020--2026
@@ -121,21 +126,21 @@
     
     Distinction in Undergraduate Thesis, Pomona College \hfill 2018
     
-    Sutton Trust -- Fulbright Programme, London UK \hfill 2013--2014 \\ \\
+    Sutton Trust --- Fulbright Programme, London UK \hfill 2013--2014 \\ \\
 
 \textbf{Professional}
     & \textbf{Presentations:}
-    
+
     European Economic Association Annual Congress, Bordeaux France \hfill 2025
-    
+
     Econometric Society World Congress, Seoul Korea \hfill 2025
-    
+
     European Association of Labour Economists Conference, NHH Norway \hfill 2024
-    
+
     Economics Department Alumni Conference, Cornell University \hfill 2024
-    
+
     Eastern Economic Association Annual Meeting, Boston USA \hfill 2024
-    
+
     Center for the Study of Inequality, Cornell University \hfill 2024
 
     Labour Work in Progress Seminar, Cornell University \hfill 2021, 2022, and so on. \\ \\
