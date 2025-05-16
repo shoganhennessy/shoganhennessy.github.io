@@ -5,12 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-My name is Senan, and I am a labour economist.
-I am in the 5th year of an Economics PhD at Cornell University, where I am finishing my dissertation.
+I am in the 5th year of an Economics PhD at Cornell University, where I am finishing my dissertation focusing on labour economics.
 
 ## The Direct and Indirect Effects of Genetics and Education (2025, JMP).
 
-I investigate whether genes associated with education affect labor market outcomes directly or primarily through educational choices, using random genetic inheritance as a natural experiment and developing causal methods that account for individual choice rather than assuming genetic determinism.
+I investigate whether genes associated with education affect labour market outcomes directly or primarily through educational choices, using random genetic inheritance as a natural experiment and developing causal methods that account for human capital decisions rather than assuming genetic determinism.
 
 Draft forthcoming.
 
