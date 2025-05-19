@@ -7,7 +7,9 @@ author_profile: true
 
 I am in the 5th year of an Economics PhD at Cornell University, where I am finishing my dissertation focusing on labour economics.
 
-## 1. The Direct and Indirect Effects of Genetics and Education (2025, JMP).
+---
+
+## The Direct and Indirect Effects of Genetics and Education (2025, JMP).
 
 I investigate whether genes associated with education affect labour market outcomes directly or primarily through educational choices, using random genetic inheritance as a natural experiment and developing causal methods that account for human capital decisions rather than assuming genetic determinism.
 
@@ -24,7 +26,9 @@ Draft forthcoming.
     By using causal methods that explicitly account for individual choice, rather than assuming genetic determinism, this research provides a richer understanding of how biological inheritance, personal agency, and institutional structures interact to shape labour market inequality.
 </details>
 
-## 2. Causal Mediation in Natural Experiments (2025).
+---
+
+## Causal Mediation in Natural Experiments (2025).
 
 Applied econometrics paper showing how mediation works (or does not work) in a quasi-experimental/observational setting --- and what to do about it.
 
@@ -43,13 +47,17 @@ Working [paper here](https://raw.githubusercontent.com/shoganhennessy/mediation-
     This approach gives applied researchers an alternative method to estimate CM effects when they can only establish a credible argument for quasi-random assignment of the initial treatment, and not a mediator, as is common in natural experiments.
 </details>
 
-## 3. Less Funding, More Lecturers, and Fewer Professors (2024).
+---
+
+## Less Funding, More Lecturers, and Fewer Professors (2024).
 
 Empirical economics paper connecting stagnating US higher education funding with substituting professors for lecturers.
 
 Working [paper here](https://raw.githubusercontent.com/shoganhennessy/state-funding-faculty/main/state-funding-faculty-2024.pdf).
 
-## 4. Food Insecurity Among Military Veterans (2025).
+---
+
+## Food Insecurity Among Military Veterans (2025).
 
 Joint with Seungmin Lee (Notre Dame), Chris Barrett, John Hoddinott (Cornell), Matthew Rabbitt (USDA).
 
@@ -57,7 +65,9 @@ Empirical economics project measuring food insecurity among military veterans, u
 
 Draft Forthcoming.
 
-## 5. Market Interventions in a Large-Scale Virtual Economy (2022).
+---
+
+## Market Interventions in a Large-Scale Virtual Economy (2022).
 
 Joint with Peter Xenopoulos, Claudio Silva (NYU).
 [ArXiv paper here](https://doi.org/10.48550/arXiv.2210.07970).
