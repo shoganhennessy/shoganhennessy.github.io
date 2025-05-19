@@ -38,11 +38,10 @@ Working [paper here](https://raw.githubusercontent.com/shoganhennessy/mediation-
     <summary> Extended Abstract </summary>
     Natural experiments are a cornerstone of applied economics, providing settings for estimating causal effects with a compelling argument for treatment ignorability.
     Applied researchers often investigate mechanisms behind treatment effects by controlling for a mediator of interest, alluding to Causal Mediation (CM) methods for estimating direct and indirect effects (CM effects).
-    This approach to investigating mechanisms unintentionally assumes the mediator is quasi-randomly assigned --- in addition to the quasi-random assignment of the initial treatment.
-    Individuals' choice to take (or refuse) a mediator based on costs and benefits is inconsistent with mediator ignorability, suggesting in-practice estimates of CM effects are biased in natural experiment settings.
-    I solve for explicit bias terms when the mediator is not ignorable, imitating classical selection bias for average causal effects.
-    I consider an alternative approach to credibly estimate CM effects, when selection-into-mediator is driven by unobserved costs and benefits.
-    The approach uses a control function adjustment, relying on mediator take-up cost as an instrument.
+    This approach to investigating mechanisms unintentionally assumes the mediator is quasi-randomly assigned --- in addition to quasi-random assignment of the initial treatment.
+    Individuals' choice to take (or refuse) a mediator based on costs and benefits is inconsistent with this assumption, suggesting in-practice estimates of CM effects are biased in natural experiment settings.
+    I solve for these explicit bias terms, which imitate classical selection bias for average causal effects and crowd out inference on direct and indirect effects, and consider an alternative approach to credibly estimate CM effects.
+    The approach uses a control function adjustment, pertinent for when selection-into-mediator is driven by unobserved costs and benefits, and relies on instrumental variation in mediator take-up cost.
     Simulations confirm that this method corrects for selection bias in conventional CM estimates, providing both parametric and semi-parametric methods.
     This approach gives applied researchers an alternative method to estimate CM effects when they can only establish a credible argument for quasi-random assignment of the initial treatment, and not a mediator, as is common in natural experiments.
 </details>
