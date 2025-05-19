@@ -9,7 +9,7 @@ I am in the 5th year of an Economics PhD at Cornell University, where I am finis
 
 ---
 
-## The Direct and Indirect Effects of Genetics and Education (2025, JMP).
+### The Direct and Indirect Effects of Genetics and Education (2025, JMP).
 
 I investigate whether genes associated with education affect labour market outcomes directly or primarily through educational choices, using random genetic inheritance as a natural experiment and developing causal methods that account for human capital decisions rather than assuming genetic determinism.
 
@@ -28,7 +28,7 @@ Draft forthcoming.
 
 ---
 
-## Causal Mediation in Natural Experiments (2025).
+### Causal Mediation in Natural Experiments (2025).
 
 Applied econometrics paper showing how mediation works (or does not work) in a quasi-experimental/observational setting --- and what to do about it.
 
@@ -49,7 +49,7 @@ Working [paper here](https://raw.githubusercontent.com/shoganhennessy/mediation-
 
 ---
 
-## Less Funding, More Lecturers, and Fewer Professors (2024).
+### Less Funding, More Lecturers, and Fewer Professors (2024).
 
 Empirical economics paper connecting stagnating US higher education funding with substituting professors for lecturers.
 
@@ -57,7 +57,7 @@ Working [paper here](https://raw.githubusercontent.com/shoganhennessy/state-fund
 
 ---
 
-## Food Insecurity Among Military Veterans (2025).
+### Food Insecurity Among Military Veterans (2025).
 
 Joint with Seungmin Lee (Notre Dame), Chris Barrett, John Hoddinott (Cornell), Matthew Rabbitt (USDA).
 
@@ -67,7 +67,7 @@ Draft Forthcoming.
 
 ---
 
-## Market Interventions in a Large-Scale Virtual Economy (2022).
+### Market Interventions in a Large-Scale Virtual Economy (2022).
 
 Joint with Peter Xenopoulos, Claudio Silva (NYU).
 [ArXiv paper here](https://doi.org/10.48550/arXiv.2210.07970).
