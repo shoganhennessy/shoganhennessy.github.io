@@ -63,7 +63,7 @@ Joint with Seungmin Lee (Notre Dame), Chris Barrett, John Hoddinott (Cornell), M
 
 Empirical economics project measuring food insecurity among military veterans, using newly crafted data from the PSID to causally measure the impact of military service on food insecurity outcomes.
 
-Draft Forthcoming.
+Draft forthcoming.
 
 ---
 
