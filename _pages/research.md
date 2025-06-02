@@ -30,20 +30,20 @@ Draft forthcoming.
 
 ### Causal Mediation in Natural Experiments (2025).
 
-Applied econometrics paper showing how mediation works (or does not work) in a quasi-experimental/observational setting --- and what to do about it.
+Applied econometrics paper showing how mediation works (or does not work) in a quasi-experimental setting --- and what to do about it.
 
 Working [paper here](https://raw.githubusercontent.com/shoganhennessy/mediation-natural-experiment/main/mediation-natural-experiment-2025.pdf), and slides [here](https://raw.githubusercontent.com/shoganhennessy/mediation-natural-experiment/main/presentation-2025.pdf).
 
 <details style="text-align: justify">
     <summary> Extended Abstract </summary>
-    Natural experiments are a cornerstone of applied economics, providing settings for estimating causal effects with a compelling argument for treatment ignorability.
+    Natural experiments are a cornerstone of applied economics, providing settings for estimating causal effects with a compelling argument for treatment randomisation.
     Applied researchers often investigate mechanisms behind treatment effects by controlling for a mediator of interest, alluding to Causal Mediation (CM) methods for estimating direct and indirect effects (CM effects).
     This approach to investigating mechanisms unintentionally assumes the mediator is quasi-randomly assigned --- in addition to quasi-random assignment of the initial treatment.
-    Individuals' choice to take (or refuse) a mediator based on costs and benefits is inconsistent with this assumption, suggesting in-practice estimates of CM effects are biased in natural experiment settings.
-    I solve for these explicit bias terms, which imitate classical selection bias for average causal effects and crowd out inference on direct and indirect effects, and consider an alternative approach to credibly estimate CM effects.
-    The approach uses a control function adjustment, pertinent for when selection-into-mediator is driven by unobserved costs and benefits, and relies on instrumental variation in mediator take-up cost.
-    Simulations confirm that this method corrects for selection bias in conventional CM estimates, providing both parametric and semi-parametric methods.
-    This approach gives applied researchers an alternative method to estimate CM effects when they can only establish a credible argument for quasi-random assignment of the initial treatment, and not a mediator, as is common in natural experiments.
+    Individuals' choice to take (or refuse) a mediator based on costs and benefits is inconsistent with this assumption, suggesting in-practice estimates of CM effects are contaminated by bias terms which crowd out inference.
+    I consider an alternative approach to credibly estimate CM effects, using control function methods and relying on instrumental variation in mediator take-up cost.
+    Simulations confirm this approach corrects for bias in conventional CM estimates, providing parametric and semi-parametric methods.
+    This approach gives applied researchers an alternative method to estimate CM effects when 
+    an initial treatment is quasi-randomly assigned, but the mediator is not, as is common in natural experiments.
 </details>
 
 ---
