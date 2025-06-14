@@ -39,6 +39,11 @@ Meanwhile, I hobbled about on what the scans eventually confirmed: bilateral lab
 The top of my femur bone had worn down, and jagged edges had torn some of the issue, on both the left and right side.
 It turns out both my hips were properly damaged, not just the left one that had given out that March afternoon.
 
+1. Friends visiting for a dinner party while I could not walk. | 2. The after dinner Risk game.
+:-----------------------------------------:|:-------------------------:
+![](../files/posts/2025-06-16-two-surgically-repaired-hips/dinner-party.JPG)  |  ![](../files/posts/2025-06-16-two-surgically-repaired-hips/board-game.JPG)
+
+
 ## Attaining Medical Help from an Actual Expert (a relief)
 
 The first doctor rang me with his assessment: "It's minor. Continue with physiotherapy."
@@ -74,6 +79,10 @@ I alternated between lying in bed with my laptop propped on pillows, and a rathe
 Oddly, I found theoretical work easier to manage with constant hip pain --- what this says about economic theorists, I will leave to others to judge.
 I turned my attention to the only paper I have written with any theoretical insights (which is not saying much, as I am no theorist by any stretch of the imagination).
 
+3. Walking in to the hospital. | 4. Waiting for my (first) hip operation.
+:-----------------------------------------:|:-------------------------:
+![](../files/posts/2025-06-16-two-surgically-repaired-hips/hospital-walk.JPG)  |  ![](../files/posts/2025-06-16-two-surgically-repaired-hips/hospital-bed-1.JPG)
+
 On 1 May, I travelled to Rochester for the left hip operation.
 The day proved stressful, though somewhat alleviated by the valium that nurses kindly gave me.
 Three hours later, I woke with a swollen hip, a fog of anaesthesia, and the good wishes of the nursing staff.
@@ -82,6 +91,14 @@ Since then, it has been physiotherapy twice a week, working to strengthen the le
 During this time I improved a lot.
 I went from walking on crutches with no weight on the left leg, to walking with a cane, to body weight squats on both legs in the physiotherapist's office.
 I even made it to the university a few times, and made my way to outside activities with friends (walking stick keenly hidden by me in the photo).
+
+<p float="left">
+  <div style="width: 750; text-align: center;font-weight: bold">5. Standing up outside, and pencil notes made while reclined in hip pain --- as I presume how all theory work is usually done.</div>
+  <img src="../files/posts/2025-06-16-two-surgically-repaired-hips/outside-barbecue.JPG" width="500" />
+  <img src="../files/posts/2025-06-16-two-surgically-repaired-hips/cf-notes.JPG" width="250" />
+</p>
+
+
 
 Come 12 June, the left side had improved well enough that I was ready for the operation on the right side.
 So again I went to the University of Rochester Surgery Centre, again I was ameliorated with hospital-provided valium, and again left the hospital with a surgically repaired hip.
