@@ -107,7 +107,7 @@ So again I went to the University of Rochester Surgery Centre, again I was ameli
 
 My ordeal of going from active exercise daily to unable to walk was a surprising one.
 It has happened at an inopportune time, with big deadlines for the completion of my PhD coming up.
-But for now it seems like I will walk again unaided in a couple of months, and I can work through the final writing of my job market paper(s?) while rehabilitating this right hip.
+But for now it seems like I will walk again unaided in a couple of months, and I can work through the final writing of my job market paper while rehabilitating this right hip.
 All this with a number of new scars from the key-hole incisions at the top of both sides of my hips.
 
 If nothing else, this experience has taught me the value of good physiotherapists, and the importance of advocating for your own medical care in America --- since no one else will.
