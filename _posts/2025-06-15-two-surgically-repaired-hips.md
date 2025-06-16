@@ -46,7 +46,7 @@ It turns out both my hips were properly damaged, not just the left one that had 
 
 ## Attaining Medical Help from an Actual Expert (a relief)
 
-The first doctor rang me with his assessment: "It's minor. Continue with physiotherapy."
+The first doctor rang me with her assessment: "It's minor. Continue with physiotherapy."
 I relayed this to my physiotherapist at our next session.
 She stopped me mid-sentence, concern crossing her face.
 
@@ -70,12 +70,12 @@ It was daunting, but now someone was finally taking me seriously and offering a 
 
 ## Preparing for an Operation (twice)
 
-The orthopaedic office moved with surprising efficiency, booking me for surgery in just two weeks time --- left hip first.
+The orthopaedic office moved with surprising efficiency, booking me a surgery in just two weeks time --- left hip first.
 Their pre-operative instructions were specific: take it easy and, crucially, avoid sitting upright.
 Apparently sitting at ninety degrees puts particular strain on damaged hips, both before and after surgery.
 
-This meant reconfiguring my entire work setup.
-I alternated between lying in bed with my laptop propped on pillows, and a rather elaborate reclined arrangement at my main computer where all my data live.
+Avoiding sitting upright meant reconfiguring my entire work setup; data economists (such as myself) spend most of their worked time sitting in front of a computer.
+I alternated between lying down with a laptop propped on pillows, and a rather elaborate reclined arrangement at my main computer where all my data live.
 Oddly, I found theoretical work easier to manage with constant hip pain --- what this says about economic theorists, I will leave to others to judge.
 I turned my attention to the only paper I have written with any theoretical insights (which is not saying much, as I am no theorist by any stretch of the imagination).
 
@@ -103,7 +103,7 @@ So again I went to the University of Rochester Surgery Centre, again I was ameli
 
 ## Finishing Up (finally)
 
-My ordeal of going from active exercise daily to unable to walk was a surprising one.
+My ordeal of going from active exercising daily to unable to walk was a surprising one.
 It has happened at an inopportune time, with big deadlines for the completion of my PhD coming up.
 But for now it seems like I will walk again unaided in a couple of months, and I can work through the final writing of my job market paper while rehabilitating this right hip.
 All this with a number of new scars from the key-hole incisions at the top of both sides of my hips.
