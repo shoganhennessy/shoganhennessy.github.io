@@ -25,7 +25,7 @@ It sounded absurd even as I said it.
 I had been seeing a physiotherapist for a few months, strengthening muscles to manage minor hip pain.
 But this sharp, stabbing pain with every attempted step was completely new.
 
-The American healthcare system responded with its characteristic blend of thoroughness and inefficiency.
+The local healthcare system responded with its characteristic blend of thoroughness and inefficiency.
 First came the X-rays, standard enough.
 Then the magnetic resonance imaging --- scheduled a full month later. 
 When I arrived for the MRI, I discovered that I was only booked imaging for one hip.
