@@ -108,6 +108,6 @@ It has happened at an inopportune time, with big deadlines for the completion of
 But for now it seems like I will walk again unaided in a couple of months, and I can work through the final writing of my job market paper while rehabilitating this right hip.
 All this with a number of new scars from the key-hole incisions at the top of both hips.
 
-If nothing else, this experience has taught me the value of good physiotherapists, and the importance of advocating for your own medical care in America --- since no one else will.
+If nothing else, this experience has taught me the value of good physiotherapists, and the importance of advocating for your own medical care --- since no one else will.
 Also, I learned that economic theory becomes marginally more interesting when you are confined to bed.
 Though, I would not recommend this last lesson as a research strategy.
