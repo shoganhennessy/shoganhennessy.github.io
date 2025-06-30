@@ -18,7 +18,7 @@ But constant grinding wears it down, creating tears and rough edges. Once torn, 
 
 By March, my left hip labrum had torn sufficiently that my body simply refused to continue the charade of normal function.
 
-## Seeking Medical Help in America (yikes)
+## Seeking Medical Help (yikes)
 
 At the hospital, when asked what happened, I could only offer: "I do not know, I fell down and now cannot walk."
 It sounded absurd even as I said it.
@@ -110,4 +110,4 @@ All this with a number of new scars from the key-hole incisions at the top of bo
 
 If nothing else, this experience has taught me the value of good physiotherapists, and the importance of advocating for your own medical care in America --- since no one else will.
 Also, I learned that economic theory becomes marginally more interesting when you are confined to bed.
-Though I would not recommend this last lesson as a research strategy.
+Though, I would not recommend this last lesson as a research strategy.
