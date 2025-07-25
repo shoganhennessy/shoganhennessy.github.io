@@ -9,22 +9,12 @@ I am in the 5th year of an Economics PhD at Cornell University, where I am finis
 
 ---
 
-### The Direct and Indirect Effects of Genetics and Education (2025, JMP).
+### The Labour Market Effects of Genetics and Education (2025, JMP).
 
-I investigate whether genes associated with education affect labour market outcomes directly or primarily through educational choices, using random genetic inheritance as a natural experiment and developing causal methods that account for human capital decisions rather than assuming genetic determinism.
+I investigate the extent that genes associated with education affect labour market outcomes, using random genetic inheritance as a natural experiment and adjusting various statistical concerns.
+
 
 Draft forthcoming.
-
-<details style="text-align: justify">
-    <summary> Extended Abstract </summary>
-    Recent genetic research has shown that genes matter for education and labour market outcomes, but has little to say on the economic mechanisms beneath these findings.
-    I use plausibly random deviation from parents as a natural experiment for the Education PolyGenic Index (Ed PGI) to estimate causal effects of genes associated with years of education, using data from the UK Biobank.
-    I then decompose these genetic effects into a direct genetic effect and indirect education pathway using a causal mediation framework that allows for selection-into-education, using multiple UK university openings in the 1960s as instruments for higher education attendance. 
-    The Ed PGI increases labour market earnings through higher education attendance, with direct genetic effects indistinguishable from zero --- contradicting previous speculation that education-linked genes independently increase intelligence or other labour market traits.
-    Education linked genes are more about returns to higher education, and less about direct genetic effects.
-    These findings reframe social science genetics by shifting focus from asking ''if genes matter'' to ''how genes matter'' --- not as deterministic forces, but as factors that influence human capital decisions within institutional constraints.
-    By using causal methods that explicitly account for individual choice, rather than assuming genetic determinism, this research provides a richer understanding of how biological inheritance, personal agency, and institutional structures interact to shape labour market inequality.
-</details>
 
 ---
 
