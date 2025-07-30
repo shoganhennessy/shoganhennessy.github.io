@@ -10,9 +10,8 @@ redirect_from:
 I am a PhD student in the Economics Department at Cornell University, and my research is in labour economics.
 My economics [job market project](https://shoganhennessy.github.io/research/) focuses on:
 
-- Identifying whether genes associated with education affect labour market outcomes directly or through educational choices, using Mendelian inheritance as a natural experiment
-- Demonstrating that genetic effects on labour outcomes operate primarily through higher education rather than directly - challenging deterministic interpretations and re-instating the role of human capital development
-- New methods to analyse mechanisms behind causal effects from observational studies in general, acknowledging selection in a causal mediation framework.
+- New methods to analyse mechanisms behind causal effects in observational studies, acknowledging selection in a causal mediation framework
+- Estimating the effects of genes associated with education, adjusting for various statistical concerns and questioning claims of ``direct genetic effects.''
 
 <br>
 
