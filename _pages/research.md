@@ -13,7 +13,6 @@ I am in the 5th year of an Economics PhD at Cornell University, where I am finis
 
 I investigate the extent that genes associated with education affect labour market outcomes, using random genetic inheritance as a natural experiment and adjusting various statistical concerns.
 
-
 Draft forthcoming.
 
 ---
@@ -26,14 +25,13 @@ Working [paper here](https://raw.githubusercontent.com/shoganhennessy/mediation-
 
 <details style="text-align: justify">
     <summary> Extended Abstract </summary>
-    Natural experiments are a cornerstone of applied economics, providing settings for estimating causal effects with a compelling argument for treatment randomisation.
-    Applied researchers often investigate mechanisms behind treatment effects by controlling for a mediator of interest, alluding to Causal Mediation (CM) methods for estimating direct and indirect effects (CM effects).
-    This approach to investigating mechanisms unintentionally assumes the mediator is quasi-randomly assigned --- in addition to quasi-random assignment of the initial treatment.
-    Individuals' choice to take (or refuse) a mediator based on costs and benefits is inconsistent with this assumption, suggesting in-practice estimates of CM effects are contaminated by bias terms which crowd out inference.
-    I consider an alternative approach to credibly estimate CM effects, using control function methods and relying on instrumental variation in mediator take-up cost.
-    Simulations confirm this approach corrects for bias in conventional CM estimates, providing parametric and semi-parametric methods.
-    This approach gives applied researchers an alternative method to estimate CM effects when 
-    an initial treatment is quasi-randomly assigned, but the mediator is not, as is common in natural experiments.
+    Natural experiments are a cornerstone of applied economics, providing settings for estimating causal effects with a compelling argument for treatment randomisation, but give little indication of the mechanisms behind causal effects.
+    Causal Mediation (CM) provides a framework to analyse mechanisms by identifying the average direct and indirect effects (CM effects), yet conventional CM methods require the relevant mediator is as-good-as-randomly assigned.
+    When people choose the mediator based on costs and benefits (whether to visit a doctor, to attend university, etc.), this assumption fails and conventional CM analyses are at risk of bias.
+    I propose a control function strategy that uses instrumental variation in mediator take-up costs, delivering unbiased direct and indirect effects when selection is driven by unobserved gains.
+    The method identifies CM effects via the marginal effect of the mediator, with parametric or semi-parametric estimation that is simple to implement in two stages.
+    Applying these methods to the Oregon Health Insurance Experiment reveals a substantial portion of the Medicaid lottery's effect on self-reported health and happiness flows through increased healthcare usage --- an effect that a conventional CM analysis would mistake.
+    This approach gives applied researchers an alternative method to estimate CM effects when an initial treatment is quasi-randomly assigned, but the mediator is not, as is common in natural experiments.
 </details>
 
 ---
